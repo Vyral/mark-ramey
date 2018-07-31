@@ -1,5 +1,5 @@
 audit_header: false
-title: -- MARKET -- Real Estate Video Blog with -- CLIENT NAME --
+title: Dr. Phillips-Windermere Real Estate Video Blog with Mark Ramey
 description: Our mission at -- CLIENT BRAND -- is to be your best resource for -- MARKET -- real estate advice. Whether you are a buyer, seller, or investor, our team of professionals can answer any questions you might have about real estate. If you are looking to buy or sell a home, you can get all the information and the latest updates, tips, and tricks from The -- CLIENT BRAND --, your professional -- MARKET -- Real Estate Agents.
 show_custom_links: false
 custom_links:
@@ -7,41 +7,47 @@ custom_links:
     url:
 
 client:
-  name:
+  name: Mark Ramey
   title:
   license_number:
   about_markdown: |
+    • Among the top 1% of Real Estate Professions in the Orlando Region<br>
+    • Voted “Orlando Magazines – Hot 100 Realtor” for multiple years<br>
+    • Recognized as a “5 Star – Customer Satisfaction” Professional for multiple years<br>
+    • Member of the National Association of Realtors and a Member of the Orlando Regional Board of Realtor<br>
+    • 20+ years of Finance and Real Estate experience with a team that specializes in Residential and Investment Real Estate sales and purchases.  Mark is an active, full time Realtor with a large center of influence in the greater Orlando area.  A consistent top performer, Mark and his team have received the following honors for multiple years; Top Listing Agent, Top Selling Agent, Most Closed Units and Highest closed Volume. <br>
 
-  market:
-  brand:
-  brokerage:
-  address:
-  phone:
+    Born and raised in Chicago Illinois, I left the windy city and a career in auto sales and finance in 1998 when I moved to Orlando Florida.  It only took one glorious winter to realize that this was my new home.  I quickly started my new career as a Real Estate agent so that I could help others in their quest to live here in Winter Paradise.
+  market: Dr. Phillips-Windermere
+  brand: The Mark Ramey Group
+  brokerage: Keller Williams Classic Realty
+  address: 6900 Turkey Lake Rd. Orlando, FL 32819
+  phone: 407-956-6164
   phone_type:
   phone2:
   phone2_type:
-  email:
-  url:
+  email: Mark@TheMarkRameyGroup.com
+  url: http://www.SellHomesOrlando.com
 
 CTAs:
   first_CTA_text: Home Valuation
-  first_CTA_URL: /homevalue/
+  first_CTA_URL: http://www.sellhomesorlando.com/atj/user/AdditionalGetAction.do
   second_CTA_text: Home Search
-  second_CTA_URL: /homesearch/
+  second_CTA_URL: http://www.mlsfinder.com/fl_mfrmls/markramey/index.cfm?resetform=1
 
 sidebar_CTA:
   - CTA_image_path: /img/cta-images/004.jpg
     CTA_title: "What’s Your -- MARKET -- Home Worth?"
     CTA_text: "Are you thinking of selling your home or interested in learning about home prices in your neighborhood? We can help you."
     CTA_link_text: "Free Home Value Report"
-    CTA_url: /homevalue/
+    CTA_url: http://www.sellhomesorlando.com/atj/user/AdditionalGetAction.do
 
 second_sidebar_CTA:
   - CTA_image_path2: /img/cta-images/005.jpg
     CTA_title2: "Looking for a -- MARKET -- Home?"
     CTA_text2: "Search the entire MLS for your -- MARKET -- home."
     CTA_link_text2: "Search the MLS"
-    CTA_url2: /homesearch/
+    CTA_url2: http://www.mlsfinder.com/fl_mfrmls/markramey/index.cfm?resetform=1
 
 lender:
   show_section: false
@@ -57,13 +63,13 @@ lender:
 
 socials:
   review_sm_icons: false
-  facebook_url:
-  linkedin_url:
+  facebook_url: https://www.facebook.com/TheMarkRameyGroup
+  linkedin_url: https://www.linkedin.com/in/themarkrameygroup/
   gplus_url:
   youtube_url:
-  twitter_url:
+  twitter_url: https://twitter.com/MarkRameyGroup
   instagram_url:
-  pinterest_url:
+  pinterest_url: http://www.pinterest.com/MarkRameyGroup/
   zillow_url:
   trulia_url:
   yelp_url:
@@ -100,7 +106,7 @@ header_shadow:
   h_shadow: 0px
   w_shadow: 2px
   shadow_spread: 7px
-  shadow_color: transparent
+  shadow_color: black
 
 buttons:
   button_radius_number: 0
