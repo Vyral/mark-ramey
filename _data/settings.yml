@@ -31,23 +31,23 @@ client:
 
 CTAs:
   first_CTA_text: Home Valuation
-  first_CTA_URL: http://www.sellhomesorlando.com/atj/user/AdditionalGetAction.do
-  second_CTA_text: Home Search
-  second_CTA_URL: http://www.mlsfinder.com/fl_mfrmls/markramey/index.cfm?resetform=1
+  first_CTA_URL: https://markramey.boldleads.com/
+  second_CTA_text: KW App
+  second_CTA_URL: https://app.kw.com/KW1Q9P16Q/
 
 sidebar_CTA:
   - CTA_image_path: /img/cta-images/004.jpg
     CTA_title: "What’s Your -- MARKET -- Home Worth?"
     CTA_text: "Are you thinking of selling your home or interested in learning about home prices in your neighborhood? We can help you."
     CTA_link_text: "Free Home Value Report"
-    CTA_url: http://www.sellhomesorlando.com/atj/user/AdditionalGetAction.do
+    CTA_url: https://markramey.boldleads.com/
 
 second_sidebar_CTA:
   - CTA_image_path2: /img/cta-images/005.jpg
-    CTA_title2: "Looking for a -- MARKET -- Home?"
-    CTA_text2: "Search the entire MLS for your -- MARKET -- home."
-    CTA_link_text2: "Search the MLS"
-    CTA_url2: http://www.mlsfinder.com/fl_mfrmls/markramey/index.cfm?resetform=1
+    CTA_title2: "Get FREE instant access to local homes from any mobile device."
+    CTA_text2: "Keller Williams Realty Real Estate Search available on Android, iPhone, or iPad gives you access to more than 4 million homes."
+    CTA_link_text2: "Download Now"
+    CTA_url2: https://app.kw.com/KW1Q9P16Q/
 
 lender:
   show_section: false
