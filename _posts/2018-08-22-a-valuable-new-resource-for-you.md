@@ -17,7 +17,7 @@ youtube_code: '-z4LaTJnr4w'
 
 {% include youtube.html %}
 
-Want to sell your home? Get a FREE home value report
+<em>Want to sell your home?<a href="https://markramey.boldleads.com/" target="_blank"> Get a FREE home value report</a></em>
 
 I’d like to welcome you to my new video blog.
 
