@@ -21,7 +21,7 @@ youtube_code: 7F1m5n5WbK4
 
 {% include youtube.html %}
 
-Orange County Comptroller, Phil Diamond, recently taught me all about deed fraud, and I think you need to know as well.
+<p style="text-align: center;"><em>Orange County Comptroller, Phil Diamond, recently taught me all about deed fraud, and I think you need to know as well.</em></p>
 
 I recently had the opportunity to hear Phil Diamond of the Orange County Comptroller Office. During his talk he brought up an important subject: deed fraud.&nbsp;
 
