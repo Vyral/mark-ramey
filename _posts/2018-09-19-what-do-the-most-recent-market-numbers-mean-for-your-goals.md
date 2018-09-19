@@ -21,7 +21,7 @@ youtube_code: ijPloBcEOuA
 
 {% include youtube.html %}
 
-Our third-quarter market update for 2018 is here, so let’s examine how recent real estate developments may impact your goals.
+<p style="text-align: center;"><em>Our third-quarter market update for 2018 is here, so let’s examine how recent real estate developments may impact your goals.</em></p>
 
 Our third-quarter market review for 2018 holds good news for homeowners.
 
