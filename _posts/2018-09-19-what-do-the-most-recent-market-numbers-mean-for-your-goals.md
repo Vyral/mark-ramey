@@ -21,9 +21,9 @@ youtube_code: ijPloBcEOuA
 
 {% include youtube.html %}
 
-<p style="text-align: center;"><em>Our third-quarter market update for 2018 is here, so let’s examine how recent real estate developments may impact your goals.</em></p>
+<p style="text-align: center;"><em>Our third quarter market update for 2018 is here, so let’s examine how recent real estate developments may impact your goals.</em></p>
 
-Our third-quarter market review for 2018 holds good news for homeowners.
+Our third quarter market review for 2018 holds good news for homeowners.
 
 Right now, inventory is at a seven- to 10-year low. There were 9,794 homes on the market last month, and, of those, 3,510 sold. This tells us that about 36% of the available homes in our market are selling each month, leaving us with a 2.8-month level of supply.&nbsp;
 
