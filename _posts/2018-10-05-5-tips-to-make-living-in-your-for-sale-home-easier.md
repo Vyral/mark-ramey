@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 5 Tips to Make Living in Your For Sale Home Easier
-date:
+date: 2018-10-05 16:27:12
 tags:
   - Home Seller Tips
 excerpt: >-
@@ -19,7 +19,7 @@ youtube_code: J2Ha2WnVb5U
 
 {% include youtube.html %}
 
-<p style="text-align: center;"><em>Preparing your home for sale properly is key to getting top dollar. Here are a few expert tips to get you there more quickly.</em></p>
+*Preparing your home for sale properly is key to getting top dollar. Here are a few expert tips to get you there more quickly.*
 
 Your home has always been your sanctuary and your own personal space. When a for sale sign hits the yard, however, agents and buyers are going to want to come through and take a closer look at the property. **Here are a few ways to make sure your home is prepared for showings at all times:**
 
