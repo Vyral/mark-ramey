@@ -8,7 +8,7 @@ excerpt: >-
   Preparing your home for sale properly is key to getting top dollar. Here are a
   few expert tips to get you there more quickly.
 enclosure: >-
-  https://s3.amazonaws.com/vyralmarketing/Mark+Ramey/2018/The+Mark+Ramey+Group-+5+Tips+to+Make+Living+in+Your+For+Sale+Home+Easier.mp4
+  https://s3.amazonaws.com/vyralmarketing/Mark+Ramey/2018/The+Mark+Ramey+Group-How+to+Live+in+Your+for+Sale+Home+10.9.mp4
 pullquote: A squeaky-clean house can bring thousands more in your final sale price.
 enclosure_type: video/mp4
 enclosure_time:
