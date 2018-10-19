@@ -19,7 +19,7 @@ youtube_code: Su5jhTis5zI
 
 {% include youtube.html %}
 
-When you’re making a decision on who the right agent is to help you sell your home, here are a few questions that you should be asking to make sure:
+<p style="text-align: center;"><em>When you’re making a decision on who the right agent is to help you sell your home, here are a few questions that you should be asking to make sure:</em></p>
 
 **1. How long have you been in the industry?** This gives insight into the level of experience that an agent has.
 
