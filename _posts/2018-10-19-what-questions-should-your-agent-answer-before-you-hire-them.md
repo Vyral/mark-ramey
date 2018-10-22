@@ -33,7 +33,7 @@ When you’re making a decision on who the right agent is to help you sell your 
 
 **4. What’s your list-to-sale price ratio?** This number will give you an idea as to how much money you’ll actually receive when selling your home.
 
-**5. Do you have enough staff to support my needs?** With the support of my team, I’m able to be out in the field working with buyers and sellers every day to get the results. Agents who don’t have a staff like mine often don’t have the time necessary to bring you results in the timeline you’re looking for.
+**5. Do you have enough staff to support my needs?** With the support of my team, I’m able to be out in the field working with buyers and sellers every day to get the results. Agents who don’t have a staff like mine often don’t have the time, resources, and experience necessary to bring you results in the timeline you’re looking for.
 
 **6. Do you have a preferred vendor list?** This includes vendors who can provide you a high level of service that the agent has already vetted.
 
