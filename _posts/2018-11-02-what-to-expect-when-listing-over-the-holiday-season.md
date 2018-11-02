@@ -19,7 +19,7 @@ youtube_code: 3l96T-4zqII
 
 {% include youtube.html %}
 
-Listing over the holidays can be very effective if you have a good reason to do so, and there are seven key reasons why this is the case.
+<p style="text-align: center;"><em>Listing over the holidays can be very effective if you have a good reason to do so, and there are seven key reasons why this is the case.</em></p>
 
 Many people wonder whether it makes sense to list over the holiday season. Actually, if you have a good reason for listing your property at this time of year, there are a number of different benefits you can enjoy by selling during the holidays.&nbsp;
 
