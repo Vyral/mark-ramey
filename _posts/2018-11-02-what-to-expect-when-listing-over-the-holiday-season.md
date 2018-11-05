@@ -37,6 +37,6 @@ Many people wonder whether it makes sense to list over the holiday season. Actua
 
 **6. We can restrict showings.** Because we realize the holidays are a busy time, our team would be happy to restrict showings of your property so that you can still enjoy the season while your home is on the market.<br>&nbsp;
 
-**7. Selling in the holidays sets you up for success before the new year.** If your New Year’s Resolution is to get your property sold, listing over the holidays is the perfect way to meet that goal ahead of time.
+**7. Selling in the holidays sets you up for success before the new year.** If your New Year’s resolution is to get your property sold, listing over the holidays is the perfect way to meet that goal ahead of time.
 
 If you have any other questions or would like more information, feel free to give us a call or send us an email. We look forward to hearing from you soon.
