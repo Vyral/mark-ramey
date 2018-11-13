@@ -19,7 +19,7 @@ youtube_code: Gy2JA1XcL5Q
 
 {% include youtube.html %}
 
-The pizzeria’s regional manager, Debra Garcia, shares with us the highlights of her business.
+<p style="text-align: center;"><em>The pizzeria’s regional manager, Debra Garcia, shares with us the highlights of her business.</em></p>
 
 Anthony’s Coal Fired Pizza has brought plenty of delicious food into my life, so of course I needed to learn more about this restaurant. I interviewed the regional manager of the pizzeria chain, Debra Garcia, to learn more about what their great business brings to our area.
 
