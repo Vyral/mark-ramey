@@ -21,7 +21,7 @@ youtube_code: bL5Wt7fNS5U
 
 {% include youtube.html %}
 
-There are four tips you need to follow to make a winning bid in a seller’s market.
+< pstyle="text-align: center;".<em>There are four tips you need to follow to make a winning bid in a seller’s market.</em></p>
 
 If you want to make sure you make a winning bid for the home you want in our seller’s market, here are the four tips you need to follow.&nbsp;
 
