@@ -33,6 +33,6 @@ Next, **give sellers time to move.** Or, give them their closing date if it fits
 
 {% include pullquote.html %}
 
-Lastly, **write your best offer (i.e., your highest and best offer).** If you make an offer that’s $3,000 or $5,000 below your ceiling and the buyer selects another bid, how would you feel about that? Would you go back and add that amount to your offer so you get the house you want? If so, state that in your contract&nbsp;
+Lastly, **write your best offer (i.e., your highest and best offer).** If you make an offer that’s $3,000 or $5,000 below your ceiling and the buyer selects another bid, how would you feel about that? Would you go back and add that amount to your offer so you get the house you want? If so, state that in your contract.&nbsp;
 
 If you have any more questions about purchasing a property in a seller’s market or you have any other real estate needs, don’t hesitate to reach out to me. I’d love to help you.
