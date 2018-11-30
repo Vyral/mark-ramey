@@ -3,6 +3,7 @@ layout: default
 title: Local Vendors
 permalink: /local-vendors/
 ---
+<h1 class="center"> Local Vendors</h1>
 <h3><a href="https://www.allegramarketingprint.com/locations/orlando-fl/" target="_blank">Allegra Printing</a></h3>
 <p><strong>Don Snyder</strong><br>
 4498 Vineland Road<br>
@@ -71,7 +72,7 @@ Casselberry FL 32707<br>
 
 <hr>
 
-<h3><a href="https://www.iscf.biz/florida-insurance/" target="_blank"></a></h3>
+<h3><a href="https://www.iscf.biz/florida-insurance/" target="_blank">Insurance Services of Central Florida</a></h3>
 <p><strong>James Cleveland</strong><br>
 2910 Maguire Road, Ste 2004<br>
 Ocoee, FL 34761<br>
