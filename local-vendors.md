@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 title: Local Vendors
 permalink: /local-vendors/
 ---
