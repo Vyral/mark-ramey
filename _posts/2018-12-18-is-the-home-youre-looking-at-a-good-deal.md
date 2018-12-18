@@ -20,7 +20,7 @@ youtube_code: BWbd-cwvFFw
 
 {% include youtube.html %}
 
-During your home search, there are four main indicators that will help you determine whether a listing is a good deal. We’ll be discussing each of these signs today.
+<p style="text-align: center;"><em>During your home search, there are four main indicators that will help you determine whether a listing is a good deal. We’ll be discussing each of these signs today.</em></p>
 
 When it comes time to purchase a property, how can you be sure that the home you’re looking at is a good deal? There are actually a few specific indicators, and we’ll be covering four of the best signs today:
 
