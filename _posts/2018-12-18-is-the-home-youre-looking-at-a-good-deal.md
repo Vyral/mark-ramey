@@ -24,14 +24,14 @@ youtube_code: BWbd-cwvFFw
 
 When it comes time to purchase a property, how can you be sure that the home you’re looking at is a good deal? There are actually a few specific indicators, and we’ll be covering four of the best signs today:
 
-**1. Price.** How much a home costs obviously has a lot to do with whether its a good deal. Partnering with a quality agent and a professional lender will help you discern what kind of price is fair, and what you should expect to pay for the kind of home you want.&nbsp;
+**1. Price.** How much a home costs obviously has a lot to do with whether it's a good deal. Partnering with a quality agent and a professional lender will help you discern what kind of price is fair and what you should expect to pay for the kind of home you want.&nbsp;
 
-**2. Home features.** During your search, you should have a list of features that you’re looking for. Having this list in mind will help you determine how well a given property meets your wants and needs. Better still, have your agent perform a comparative market analysis, during which they will compare a given home against other similar properties in order to assess it’s value.
+**2. Home features.** During your search, you should have a list of features that you’re looking for. Having this list in mind will help you determine how well a given property meets your wants and needs. Better still, have your agent perform a comparative market analysis, during which they will compare a given home against other similar properties in order to assess its value.
 
 {% include pullquote.html %}
 
 **3. Location.** While you can change certain features of a home, you cannot change its location. You should always consider the ways in which a home’s location will impact your life while you live there before making the decision to purchase it.
 
-**4. Condition.** Buying a home that is move-in ready is something many people prefer, but other still would rather put in the work to customize and fix up whatever home they buy. In either case, make a decision at the beginning of your home search about what you’re looking for. A home’s condition is a crucial component all buyers must consider.&nbsp;
+**4. Condition.** Buying a home that is move-in ready is something many people prefer, but others still would rather put in the work to customize and fix up whatever home they buy. In either case, make a decision at the beginning of your home search about what you’re looking for. A home’s condition is a crucial component all buyers must consider.&nbsp;
 
 If you have any other questions or would like more information, feel free to give us a call or send us an email. We look forward to hearing from you soon.
