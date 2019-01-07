@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Is the Home You’re Looking At a Good Deal?
-date: 2018-12-18 17:09:42
+date: 2019-01-06 17:09:42
 tags:
   - Home Buyer Tips
 excerpt: >-
