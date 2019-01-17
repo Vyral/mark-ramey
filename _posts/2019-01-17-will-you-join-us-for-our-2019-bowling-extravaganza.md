@@ -19,7 +19,7 @@ youtube_code: HD52B3kZ-90
 
 {% include youtube.html %}
 
-Our Bowling Extravaganza is right around the corner and you won’t want to miss it.
+<p style="text-align: center;"><em>Our Bowling Extravaganza is right around the corner and you won’t want to miss it.</em></p>
 
 Happy New Year! We’re sending you this message today to remind you of our upcoming client appreciation event: the 2019 Bowling Extravaganza.
 
