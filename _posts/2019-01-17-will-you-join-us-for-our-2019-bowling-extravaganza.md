@@ -23,7 +23,7 @@ youtube_code: HD52B3kZ-90
 
 Happy New Year! We’re sending you this message today to remind you of our upcoming client appreciation event: the 2019 Bowling Extravaganza.
 
-This awesome event will take place on Saturday, February 2 from 11 a.m. to 3 p.m. at Alamo Bowl in Winter Park.
+This awesome event will take place on Saturday, February 2 from 11 a.m. to 3 p.m. at Aloma Bowl in Winter Park.
 
 There will be food, fun, prizes, and, of course, bowling! We’re so excited to see all of you there.
 
