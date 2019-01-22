@@ -16,7 +16,7 @@ youtube_code: cxRNgcif1LQ
 
 {% include youtube.html %}
 
-The KW app can be your best friend if you’re a homebuyer. Here’s why.
+<p style="text-align: center;"><em>The KW app can be your best friend if you’re a homebuyer. Here’s why.</em></p>
 
 Today we just wanted to talk to you a little bit about the Keller Williams app and why you should download it on your phone today.
 
