@@ -23,4 +23,4 @@ First of all, it’s going to give you access to us very quickly, as well as rea
 
 It’s also your only access to Keller Mortgage, which was founded to give you the opportunity to buy a home with no lender fees.
 
-Take the time now to download the app <a href="https://app.kw.com/KW1Q9S0F7/" target="_blank">here</a>, and text or email me a screenshot of the app. If you do, you’ll have the opportunity to win $100.&nbsp;
+Take the time now to download the app <a href="https://app.kw.com/KW1Q9P16Q/" target="_blank">here</a>, and text or email me a screenshot of the app. If you do, you’ll have the opportunity to win $100.&nbsp;
