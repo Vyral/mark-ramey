@@ -17,10 +17,10 @@ youtube_code: ATRFwE3K0EE
 
 {% include youtube.html %}
 
-Today we just wanted to talk to you a little bit about the Keller Williams app and why you should download it on your phone today.
+<p style="text-align: center;"><em>Today we just wanted to talk to you a little bit about the Keller Williams app and why you should download it on your phone today.</em></p>
 
 First of all, it’s going to give you access to us very quickly, as well as real-time property information directly from the MLS.
 
 It’s also your only access to Keller Mortgage, which was founded to give you the opportunity to buy a home with no lender fees.
 
-Take the time now to download the app here, and text or email me a screenshot of the app. If you do, you’ll have the opportunity to win $100.&nbsp;
+Take the time now to download the app <a href="https://app.kw.com/KW1Q9S0F7/" target="_blank">here</a>, and text or email me a screenshot of the app. If you do, you’ll have the opportunity to win $100.&nbsp;
