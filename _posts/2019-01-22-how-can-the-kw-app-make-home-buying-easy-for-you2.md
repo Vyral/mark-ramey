@@ -17,7 +17,9 @@ youtube_code: ATRFwE3K0EE
 
 {% include youtube.html %}
 
-<p style="text-align: center;"><em>Today we just wanted to talk to you a little bit about the Keller Williams app and why you should download it on your phone today.</em></p>
+<p style="text-align: center;"><em>The KW app can be your best friend if you’re a homebuyer. Here’s why.</em></p>
+
+Today we just wanted to talk to you a little bit about the Keller Williams app and why you should download it on your phone today.
 
 First of all, it’s going to give you access to us very quickly, as well as real-time property information directly from the MLS.
 
