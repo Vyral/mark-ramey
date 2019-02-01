@@ -21,7 +21,7 @@ youtube_code: MtzGxGBsssI
 
 {% include youtube.html %}
 
-If any of the four signs covered in today’s message are true to your homeowner situation, you ought to consider downsizing.
+<p style="text-align: center;"><em>If any of the four signs covered in today’s message are true to your homeowner situation, you ought to consider downsizing.</em></p>
 
 For many, the natural progression of homeownership means eventually upsizing into a larger home. However, certain factors may indicate that simplifying and moving into a smaller home is actually the better option. Here are four of those indicators:&nbsp;
 
