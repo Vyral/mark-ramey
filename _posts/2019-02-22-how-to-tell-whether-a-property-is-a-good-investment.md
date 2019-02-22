@@ -19,7 +19,7 @@ youtube_code: vd4m9FDcQPk
 
 {% include youtube.html %}
 
-Are you thinking about investing in real estate? Here are the things you should be looking for.
+<p style="text-align: center;"><em>Are you thinking about investing in real estate? Here are the things you should be looking for.</em></p>
 
 If you’re thinking about investing in real estate, here are four things to consider that will help you determine whether a property is right for you:
 
