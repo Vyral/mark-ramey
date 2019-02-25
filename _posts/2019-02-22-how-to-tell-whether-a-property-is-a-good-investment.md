@@ -31,6 +31,6 @@ If you’re thinking about investing in real estate, here are four things to con
 
 {% include pullquote.html %}
 
-**4. The current tenant situation.** If the property already has tenants, how have they paid each month on time? How long is the lease? Can you raise the rent, or is it at a good level already? These are all questions you’ll need to answer.
+**4. The current tenant situation.** If the property already has tenants, have they paid each month on time? How long is the lease? Can you raise the rent, or is it at a good level already? These are all questions you’ll need to answer.
 
 These are just a handful of tips I wanted to share with you today. If you have any other questions about buying or selling real estate in the meantime, don’t hesitate to give me a call or send me an email. I look forward to hearing from you soon.
