@@ -21,7 +21,7 @@ youtube_code: TeXB4LeA6Bg
 
 {% include youtube.html %}
 
-There are hidden costs to buying a home that you need to be aware of as a homebuyer.
+<p style="text-align: center;"><em>There are hidden costs to buying a home that you need to be aware of as a homebuyer.</em></p>
 
 When purchasing a home, there are several costs you need to budget for aside from the price of the home itself.
 
