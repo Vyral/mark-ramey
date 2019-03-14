@@ -8,7 +8,7 @@ excerpt: >-
   There are hidden costs to buying a home that you need to be aware of as a
   homebuyer.
 enclosure: >-
-  https://s3.amazonaws.com/vyralmarketing/Mark+Ramey/2019/The+Mark+Ramey+Group-+%5B9-24%5D+_+Buying+Budget.mp4
+  https://s3.amazonaws.com/vyralmarketing/Mark+Ramey/2019/The+Mark+Ramey+Group-+buying+budget.mp4
 pullquote: >-
   Oftentimes, lenders require that you pay a year’s worth of home insurance up
   front.
