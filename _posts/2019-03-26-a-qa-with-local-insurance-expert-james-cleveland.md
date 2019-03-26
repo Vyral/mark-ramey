@@ -19,7 +19,7 @@ youtube_code: 20LlhEGjiSU
 
 {% include youtube.html %}
 
-If you’ve got questions about insurance, today’s guest can answer them for you. We covered a few of them already in our most recent interview.
+<p style="text-align: center;"><em>If you’ve got questions about insurance, today’s guest can answer them for you. We covered a few of them already in our most recent interview.</em></p>
 
 I recently had the privilege to interview James Cleveland from Insurance Services of Central Florida to discuss his role in the insurance industry, along with a few related questions.&nbsp;
 
