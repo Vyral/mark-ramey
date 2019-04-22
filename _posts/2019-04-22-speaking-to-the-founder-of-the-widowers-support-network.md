@@ -1,13 +1,14 @@
 ---
 layout: post
 title: Speaking to the Founder of the Widowers Support Network
-date:
+date: 2019-04-22 19:15:02
 tags:
   - Widowers' Support
 excerpt: >-
   Herb Knoll explains to us how his organization, the Widowers Support Network,
   helps men in need.
-enclosure:
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Mark+Ramey/2019/The+Mark+Ramey+Group-+Widowers+Support+Network.mp4
 pullquote: >-
   There are 2.7 million widowers in America, and 420,000 men become widowers
   each year.
@@ -30,6 +31,6 @@ There are 2.7 million widowers in America, and 420,000 men become widowers each 
 
 00:05 — Introduction to Herb and the WSN<br>01:11 — Why Herb started the WSN<br>04:06 — What does this network do for people?<br>07:49 — Why being alone with your thoughts can be difficult<br>09:11 — An example of how WSN helped someone<br>12:20 — How to reach out to Herb or get a copy of his book<br>14:50 — Why groups like this are important<br>16:50 — There’s an emotional side to selling property<br>18:00 — A tip from Herb about home equity lines of credit
 
-I’d like to thank Herb for talking with us today. If you’d like to learn more about the Widowers Support Network, visit their website: [**www.widowerssupportnetwork.com.&nbsp;**](http://www.widowerssupportnetwork.com)
+I’d like to thank Herb for talking with us today. If you’d like to learn more about the Widowers Support Network, visit their website: [**www.widowerssupportnetwork.com.&nbsp;**](https://widowerssupportnetwork.com/){: target="_blank"}
 
 If you have any questions for me about real estate, feel free to reach out to me. I look forward to hearing from you soon.<br>&nbsp;
