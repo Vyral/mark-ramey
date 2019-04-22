@@ -21,7 +21,7 @@ youtube_code: kRVxOE7Ceos
 
 {% include youtube.html %}
 
-Herb Knoll explains to us how his organization, the Widowers Support Network, helps men in need.
+<p style="text-align: center;"><em>Herb Knoll explains to us how his organization, the Widowers Support Network, helps men in need.</em></p>
 
 There are 2.7 million widowers in America, and 420,000 men become widowers each year. One in every five men will be widowed, and the suicide rate among widowers is three to four times higher than that of married men.&nbsp;
 
