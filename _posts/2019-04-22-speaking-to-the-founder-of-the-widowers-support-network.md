@@ -8,7 +8,7 @@ excerpt: >-
   Herb Knoll explains to us how his organization, the Widowers Support Network,
   helps men in need.
 enclosure: >-
-  https://s3.amazonaws.com/vyralmarketing/Mark+Ramey/2019/The+Mark+Ramey+Group-+Widowers+Support+Network.mp4
+  https://s3.amazonaws.com/vyralmarketing/Mark+Ramey/2019/The+Mark+Ramey+Group-+Widowers+Support+Network+(1).mp4
 pullquote: >-
   There are 2.7 million widowers in America, and 420,000 men become widowers
   each year.
@@ -16,7 +16,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: kRVxOE7Ceos
+youtube_code: NZswbhgbf9s
 ---
 
 {% include youtube.html %}
