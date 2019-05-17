@@ -37,6 +37,6 @@ I recently had the privilege to interview James Cleveland from Insurance Service
 
 11:18 - How you can get in touch with James for a free policy review (and enter his company's raffle for a $100 Visa gift card)&nbsp;
 
-If you have any other questions or would like more information, feel free to give us a call or send us an email. And if you’d like to learn more about Insurance Services of Central Florida’s gift card raffle, click here.
+If you have any other questions or would like more information, feel free to give us a call or send us an email. And if you’d like to learn more about Insurance Services of Central Florida’s gift card raffle, click <a href="https://www.iscf.biz/florida-insurance/win/" target="_blank">here.</a>
 
 We look forward to hearing from you soon.&nbsp;
