@@ -22,7 +22,7 @@ youtube_code: 'https://youtu.be/DdP7VEyGCFc'
 
 If you haven’t gotten tickets to movie night yet, make sure you do soon. If you know someone who is thinking about selling their home, you might also be able to win $300.
 
-We just wanted to quickly reach out to remind you about our upcoming movie night. If you haven’t already received your invite to “Toy Story 4” and “Dark Phoenix,” please RSVP today because seats are filling up fast.
+We just wanted to quickly reach out to remind you about our upcoming movie night. If you haven’t already received your invite to “Toy Story 4” and “Dark Phoenix,” <strong>please RSVP by giving us a call or sending us an email today, because seats are filling up fast.</strong>
 
 Also, we’re currently working with six really good families and inventory is so low that we’re having trouble finding homes for them. Can you or someone you know benefit from selling your home right now?
 
