@@ -26,6 +26,6 @@ We just wanted to quickly reach out to remind you about our upcoming movie night
 
 Also, we’re currently working with six really good families and inventory is so low that we’re having trouble finding homes for them. Can you or someone you know benefit from selling your home right now?
 
-If so, we’d love to be able to create a win-win scenario for both parties. If you do know someone who might be a fit to work with us and you send us their contact information to us at (407) 421-9653 before June 24, you’ll be entered to win a $300 gift card.&nbsp;
+If so, we’d love to be able to create a win-win scenario for both parties. If you do know someone who might be a fit to work with us and you send us their contact information at (407) 421-9653 before June 24, you’ll be entered to win a $300 gift card.&nbsp;
 
 If you have any other questions or would like more information, feel free to give us a call or send us an email. We look forward to hearing from you soon.&nbsp;
