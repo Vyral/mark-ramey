@@ -21,7 +21,7 @@ youtube_code: 'https://youtu.be/KzqZDJ4zG0A'
 
 {% include youtube.html %}
 
-Does Zillow’s Zestimate accurately portray the value of your home? Find out today.
+<p style="text-align: center;"><em>Does Zillow’s Zestimate accurately portray the value of your home? Find out today.</em></p>
 
 How does Zillow come up with their Zestimates?
 
