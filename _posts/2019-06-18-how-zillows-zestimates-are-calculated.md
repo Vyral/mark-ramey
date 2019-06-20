@@ -25,7 +25,7 @@ youtube_code: 'https://youtu.be/KzqZDJ4zG0A'
 
 How does Zillow come up with their Zestimates?
 
-**They use a computer algorithm that gathers public data about home sales in your neighborhood that have happened over a certain period.** Using this data and basic information about your home, they generate an estimation of your home’s value.
+**They use a computer algorithm that gathers public data about the home sales that took place in your neighborhood within a certain period of time.** Using this data and basic information about your home, they generate an estimation of your home’s value.
 
 What Zillow doesn’t do, however, is personally come out to view your home. They have no way of knowing whether you’ve made any improvements to the property, like a new kitchen or new floors. They also don’t know if your neighbor’s home is in ill-repair, or what condition your property is currently in. All these points do factor into your home’s actual market value.
 
