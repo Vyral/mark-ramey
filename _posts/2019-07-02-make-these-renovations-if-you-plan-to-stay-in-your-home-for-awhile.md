@@ -21,7 +21,7 @@ youtube_code: 'https://youtu.be/TjwqO2boNVs'
 
 {% include youtube.html %}
 
-Which renovations should you make if you plan to stay in your home for a while? Let’s find out.
+<p style="text-align: center;"><em>Which renovations should you make if you plan to stay in your home for a while? Let’s find out.</em></p>
 
 Which renovations are worth making to your home? Actually, the answer depends on whether you plan to keep it or sell it, **so we’ll be covering each scenario in a two-part video series.** For today’s message, which marks the first half of this series, we’ll talk about the renovations you should make if you plan to continue living in your home for some time.
 
