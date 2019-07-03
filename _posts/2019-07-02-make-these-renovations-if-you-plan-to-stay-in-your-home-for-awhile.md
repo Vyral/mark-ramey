@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Make These Renovations if You Plan to Stay in Your Home for Awhile
+title: Make These Renovations if You Plan to Stay in Your Home for a While
 date: 2019-07-02 16:19:06
 tags:
   - Real Estate
