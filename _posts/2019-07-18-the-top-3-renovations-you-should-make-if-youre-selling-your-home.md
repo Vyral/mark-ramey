@@ -21,7 +21,7 @@ youtube_code: 'https://youtu.be/M1inDp6f_Fk'
 
 {% include youtube.html %}
 
-If you’re putting your home on the market, there are three types of renovations you can make that will appeal to the most buyers.
+<p style="text-align:center;"><em>If you’re putting your home on the market, there are three types of renovations you can make that will appeal to the most buyers.</em></p>
 
 Did you know that roughly 98% of all buyers prefer to purchase a home they can move into and live in without needing to do any extra work? If you’re putting your home on the market soon, here are the three types of renovations you can make that will turn your home into exactly what these buyers are looking for:
 
