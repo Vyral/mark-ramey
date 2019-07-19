@@ -27,7 +27,7 @@ Did you know that roughly 98% of all buyers prefer move-in ready homes? If you�
 
 **1\. Add fresh paint to the interior and exterior.** A fresh coat of neutral paint added to the interior of your home can go a long way, and it can also eliminate any lingering odors, which leads me to my next point...
 
-**2\. Install fresh flooring (i.e., carpeting)**. A lot of sellers ask me whether they should add new wooden or laminate floors. Frankly, if you replace your current flooring with clean, neutral carpeting, that will create an appealing scent in your home. The least-expensive flooring you can buy will be your best option, depending on your home. If you have an upscale home, you’re better off looking at other options.&nbsp;
+**2\. Install fresh flooring (i.e., carpeting)**. A lot of sellers ask me whether they should add new wooden or laminate floors. Frankly, if you replace your current flooring with clean, neutral carpeting, that will create an appealing scent in your home. The least expensive flooring you can buy will be your best option, depending on your home. If you have an upscale home, you’re better off looking at other options.&nbsp;
 
 {% include pullquote.html %}
 
