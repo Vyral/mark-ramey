@@ -8,7 +8,7 @@ excerpt: >-
   If you’re putting your home on the market, there are three types of
   renovations you can make that will appeal to the most buyers.
 enclosure: >-
-  https://vyralmarketing.s3.amazonaws.com/Mark+Ramey/2019/The+Mark+Ramey+Group-+When+Is+the+Best+Time+to+Sell_.mp4
+  https://vyralmarketing.s3.amazonaws.com/Mark+Ramey/2019/The+Mark+Ramey+Group-+renovations+when+selling.mp4
 pullquote: >-
   A fresh coat of neutral paint added to the interior of your home can go a long
   way.
