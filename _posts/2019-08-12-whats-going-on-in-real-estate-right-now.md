@@ -19,7 +19,7 @@ youtube_code: 'https://youtu.be/hX_E_ROlWdg'
 
 {% include youtube.html %}
 
-I’ve got a short and sweet market update for you today. Here’s what you need to know.
+<p style="text-align: center;"><em>I’ve got a short and sweet market update for you today. Here’s what you need to know.</em></p>
 
 Today I am going to give you a mid-year review on our real estate market to give you a better idea of what’s going on. Here’s what you need to know.
 
