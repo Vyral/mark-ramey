@@ -19,7 +19,7 @@ youtube_code: 'https://youtu.be/6mDiewzmWfc'
 
 {% include youtube.html %}
 
-Low interest rates are good for buyers, but they’re also good for sellers. Here’s why.
+<p style="text-align: center;"><em>Low interest rates are good for buyers, but they’re also good for sellers. Here’s why.</em></p>
 
 When we’re talking about interest rates, their importance really comes down to one thing: Affordability. **For every point that interest rates go up or down, it affects the buying power of buyers by 10%.**&nbsp;
 
