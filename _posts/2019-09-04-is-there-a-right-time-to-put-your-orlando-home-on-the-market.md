@@ -19,7 +19,7 @@ youtube_code: 'https://youtu.be/dnpyOZ9J6gc'
 
 {% include youtube.html %}
 
-There actually is a “right” time to sell your home—but when that is might surprise you.
+<p style="text-align: center;"><em>There actually is a “right” time to sell your home—but when that is might surprise you.</em></p>
 
 “When the best time of year to sell my home?”&nbsp;
 
