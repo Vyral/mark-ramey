@@ -19,7 +19,7 @@ youtube_code: 'https://youtu.be/Ys7UyqEogag'
 
 {% include youtube.html %}
 
-Whether we like it or not, it’s hurricane season. Here are some tips that can help you protect yourself as a homebuyer and a homeowner.
+<p style="text-align: center;"><em>Whether we like it or not, it’s hurricane season. Here are some tips that can help you protect yourself as a homebuyer and a homeowner.</em></p>
 
 Hurricane season is upon us, unfortunately. However, even with rough weather impending there are still things you can do both as a homeowner and as a homebuyer to protect yourself and your home this season.
 
