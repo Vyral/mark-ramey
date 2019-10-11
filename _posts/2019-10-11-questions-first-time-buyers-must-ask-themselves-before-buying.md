@@ -19,7 +19,7 @@ youtube_code: 'https://youtu.be/VTj1sUHX7LQ'
 
 {% include youtube.html %}
 
-Before embarking on your first home purchase, here are the questions you must ask yourself.
+<p style="text-align: center;"><em>Before embarking on your first home purchase, here are the questions you must ask yourself.</em></p>
 
 If you’re thinking of buying a home, there are certain questions you must ask yourself first in order to know whether you’re making the right choice.&nbsp;
 
