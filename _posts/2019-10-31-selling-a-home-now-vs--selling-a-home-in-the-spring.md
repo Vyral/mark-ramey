@@ -19,7 +19,7 @@ youtube_code: 'https://youtu.be/1JUrsMPP3-Y'
 
 {% include youtube.html %}
 
-Does it make more sense to sell your home now or wait until spring? Here’s what I think.
+<p style="text-align: center;"><em>Does it make more sense to sell your home now or wait until spring? Here’s what I think.</em></p>
 
 If you want to sell your home, should you start the process now or wait until spring? I’m here to answer this question today.
 
