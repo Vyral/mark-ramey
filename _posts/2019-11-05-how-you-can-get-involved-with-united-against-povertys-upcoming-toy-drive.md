@@ -31,7 +31,7 @@ Recently I had the privilege of speaking with Nancy Robbinson of United Against 
 
 0:39 - Nancy shares a few words on United Against Poverty’s upcoming toy drive
 
-3:10 - How to donate toys at (or after) my upcoming client appreciation event (which you can learn more about here)&nbsp;
+3:10 - How to donate toys at (or after) my upcoming client appreciation event
 
 4:06 - How United Against Poverty helps families lift themselves up into economic self-sufficiency and how you can help with this goal
 
