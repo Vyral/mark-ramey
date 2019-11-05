@@ -19,7 +19,7 @@ youtube_code: 'https://youtu.be/CDKueOfl_wM'
 
 {% include youtube.html %}
 
-The local charity organization United Against Poverty is hosting a toy drive in the near future. Here’s everything you need to know.
+<p style="text-align: center;"><em>The local charity organization United Against Poverty is hosting a toy drive in the near future. Here’s everything you need to know.</em></p>
 
 Recently I had the privilege of speaking with Nancy Robbinson of United Against Poverty to discuss the organization’s goal, her role as development officer, and their upcoming toy drive. This discussion was so enlightening that I wanted to share it with all of you, as well.&nbsp;
 
