@@ -15,7 +15,7 @@ youtube_alternate_image: /uploads/11-11---mark-ramey---yt.jpg
 youtube_code: SpCJDdQvnYs
 ---
 
-{% include youtube.html %}Today I’m sharing GEMs—a tool I use every day to help me experience a more peaceful life.
+{% include youtube.html %}<center>Today I’m sharing GEMs—a tool I use every day to help me experience a more peaceful life.</center>
 
 It’s Thanksgiving time, and I wanted to share something that has helped me in my life. It’s all wrapped around a daily habit of gratitude. Each day when I wake up I spend time writing in my journal. I do something my mentor shared with me called GEMs. This stands for gratitude, experience, and manifestations.&nbsp;
 
