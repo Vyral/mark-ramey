@@ -6,7 +6,8 @@ tags:
 excerpt: >-
   Today I’m sharing GEMs—a tool I use every day to help me experience a more
   peaceful life.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Mark+Ramey/2019/Thanksgiving+Gratitude.mp4
 pullquote: 'GEM stands for gratitude, experience, and manifestations.'
 enclosure_type: video/mp4
 enclosure_time:
