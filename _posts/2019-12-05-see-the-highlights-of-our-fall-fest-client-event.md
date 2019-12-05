@@ -19,7 +19,7 @@ youtube_code: 'https://youtu.be/mbU4Nx7ZBaQ'
 
 {% include youtube.html %}
 
-Our Fall Fest Client Event was a smashing success, and we want to show you the highlights.
+<p style="text-align: center;"><em>Our Fall Fest Client Event was a smashing success, and we want to show you the highlights.</em></p>
 
 As you know, we recently held our Fall Fest Client Appreciation Event at the Orange County Sportsman Associate on Lake Sheen, and we’re proud to say it was a huge success.
 
