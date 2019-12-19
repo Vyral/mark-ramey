@@ -21,7 +21,7 @@ youtube_code: 'https://youtu.be/GZW9X82_wKY'
 
 {% include youtube.html %}
 
-If your New Year’s resolution is to sell your home, these six tips will help you make it possible. Here’s what to do.
+<p style="text-align: center;"><em>If your New Year’s resolution is to sell your home, these six tips will help you make it possible. Here’s what to do.</em></p>
 
 The new year is right around the corner, and many people have already made the resolution to sell their home. Here are some ways you can ensure your home selling resolution is fulfilled in 2020:
 
