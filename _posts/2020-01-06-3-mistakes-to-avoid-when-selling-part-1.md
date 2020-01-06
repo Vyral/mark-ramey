@@ -17,7 +17,7 @@ youtube_code: 'https://youtu.be/mUu3BoHkUS0'
 
 {% include youtube.html %}
 
-Here are three mistakes to avoid when selling your home.
+<p style="text-align: center;"><em>Here are three mistakes to avoid when selling your home.</em></p>
 
 When it comes to selling a home, sometimes we don’t know the finer points of how to go about it. Here are three mistakes to avoid when selling your house:
 
