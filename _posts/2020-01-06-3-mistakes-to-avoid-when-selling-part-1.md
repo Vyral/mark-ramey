@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 3 Mistakes to Avoid When Selling: Part 1
+title: '3 Mistakes to Avoid When Selling: Part 1'
 date: 2020-01-06 20:42:01
 tags:
   - Home Seller Tips
