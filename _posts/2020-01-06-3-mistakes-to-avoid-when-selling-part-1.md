@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 3 Mistakes to Avoid When Selling Part 1
+title: 3 Mistakes to Avoid When Selling: Part 1
 date: 2020-01-06 20:42:01
 tags:
   - Home Seller Tips
@@ -25,8 +25,8 @@ When it comes to selling a home, sometimes we don’t know the finer points of h
 
 {% include pullquote.html %}
 
-**2\. Advertising too little.** We can’t advertise enough in today’s market to ensure no stone is unturned to find you the right buyer.&nbsp;
+**2\. Advertising too little.** We can’t advertise enough in today’s market to ensure no stone is unturned to find you the right buyer.
 
-<br>**3\. Not making a good first impression.** You want to make sure your home shows well so people will want to purchase it. 98% of our buyers want a house they can simply move into and live in right away. So, your home must make a great first impression.
+**3\. Not making a good first impression.** You want to make sure your home shows well so people will want to purchase it. 98% of our buyers want a house they can simply move into and live in right away. So, your home must make a great first impression.
 
 If you have further questions about this or any other real estate topic, please reach out to me by phone or email. I look forward to speaking with you soon.
