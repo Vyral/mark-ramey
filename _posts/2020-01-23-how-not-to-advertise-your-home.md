@@ -29,7 +29,7 @@ Today I’m sharing bad advertising that I promise we will never use when market
 * “Zombie Free\!” It’s critical in today’s world to think about safety.&nbsp;
 * “Owner ready to croak, must sell.” They should probably get that person to the emergency room...
 * “House for sale because my neighbor’s an asshole\!” How do they really feel?
-* “Husband left us for a 22 year old. House for sale by slightly bitter, newly single owner.” I’m not sure I want to hear the rest of that story.
+* “Husband left us for a 22-year-old. House for sale by slightly bitter, newly single owner.” I’m not sure I want to hear the rest of that story.
 * “For sale, mice included.” What else does this house come with?
 * “New flats for rent: 2 rooms + hall + 1 bathroom + chicken.” A new pet comes with this rental, how thoughtful\!
 * “Wraparound porch, storm/wine cellar, spectacular room to grow marijuana, open floor plan.” In case recreational marijuana ever becomes legal in Florida.&nbsp;
