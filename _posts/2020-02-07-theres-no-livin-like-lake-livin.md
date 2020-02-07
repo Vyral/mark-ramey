@@ -19,7 +19,7 @@ youtube_code: NvMyNa83gJE
 
 {% include youtube.html %}
 
-Here’s the lowdown on lakefront living in the greater Orlando area.
+<p style="text-align: center;"><em>Here’s the lowdown on lakefront living in the greater Orlando area.</em></p>
 
 Here in Orlando, Florida, we truly do have some beautiful lake properties to offer. The one lake that everyone knows about is the very same people like to walk around in downtown Orlando, Lake Eola.&nbsp;
 
