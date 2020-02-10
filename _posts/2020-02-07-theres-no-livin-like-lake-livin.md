@@ -21,11 +21,11 @@ youtube_code: NvMyNa83gJE
 
 <p style="text-align: center;"><em>Here’s the lowdown on lakefront living in the greater Orlando area.</em></p>
 
-Here in Orlando, Florida, we truly do have some beautiful lake properties to offer. The one lake that everyone knows about is the very same people like to walk around in downtown Orlando, Lake Eola.&nbsp;
+Here in Orlando, Florida, we truly do have some beautiful lake properties to offer. The one lake that everyone knows about is the very same people like to walk around in downtown Orlando: Lake Eola.&nbsp;
 
 **Near Eola, you have condo living with some gorgeous high-rises** offering stunning views and access to entertainment, limitless shopping options, and fine restaurants.&nbsp;
 
-In the Winter Park chain of lakes, there are six total lakes right in and around Rollins College and downtown Winter Park. Here, a variety of condo living options will provide you with easy access to all of them. There’s also both residential and high-end luxury homes in those areas as well.
+In the Winter Park chain of lakes, there are six total lakes right in and around Rollins College and downtown Winter Park. Here, a variety of condo living options will provide you with easy access to all of them. There are also both residential and high-end luxury homes in those areas.
 
 {% include pullquote.html %}
 
