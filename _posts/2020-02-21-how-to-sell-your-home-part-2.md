@@ -17,7 +17,7 @@ youtube_code: OSDGDhRbHEA
 
 {% include youtube.html %}
 
-I’m explaining the four Ps and how they’ll help get your home sold.
+<p style="text-align: center;"><em>I’m explaining the four Ps and how they’ll help get your home sold.</em></p>
 
 This message is part two in our series about both what to and not to do when selling your home. There are four Ps my team and I do to help our clients sell their houses:
 
