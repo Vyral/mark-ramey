@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How to Sell Your Home Part 2
+title: How to Sell Your Home, Part 2
 date: 2020-02-21 21:31:10
 tags:
   - Home Seller Tips
@@ -31,6 +31,6 @@ This message is part two in our series about both what to do and not to do when 
 
 **4\. Prospect.** We prospect every day proactively. We’re searching for the ideal buyer for your home.&nbsp;
 
-When these four P's come together they translate into wonderful results for you, your wallet, and your move. When selling your house, always remember the four P's.&nbsp;
+When these four P's come together, they translate into wonderful results for you, your wallet, and your move. When selling your house, always remember the four P's.&nbsp;
 
 If you have any other questions about the selling process or real estate in general, please contact me by phone or email. I would love to help you.
