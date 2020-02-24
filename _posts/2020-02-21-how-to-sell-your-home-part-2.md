@@ -19,11 +19,11 @@ youtube_code: OSDGDhRbHEA
 
 <p style="text-align: center;"><em>I’m explaining the four P's and how they’ll help get your home sold.</em></p>
 
-This message is part two in our series about both what to and not to do when selling your home. There are four P's my team and I do to help our clients sell their houses:
+This message is part two in our series about both what to do and not to do when selling your home. There are four P's my team and I follow to help our clients sell their houses:
 
 **1\. Price.** When we price your property correctly for the market, we drive buyers to that listing. The more buyers that show up, the more opportunities a seller has. That means there’s a greater chance the seller will receive multiple offers, which puts them in a position of strength to negotiate.&nbsp;
 
-**2\. Promotion.** We want to promote your home aggressively. We will do everything we possibly can to benefit your sale. I belong to a network of the top 1% of all real estate agents in the U.S., this means we’re receiving highly qualified, motivated buyers who want to buy your house. These buyers will pay a fair retail price.
+**2\. Promotion.** We want to promote your home aggressively. We will do everything we possibly can to benefit your sale. I belong to a network of the top 1% of all real estate agents in the U.S. and, this means we’re receiving highly qualified, motivated buyers who want to buy your house. These buyers will pay a fair retail price.
 
 **3\. Presentation.** A lot of this step is up to you. You’ll need to prepare your property by painting, fixing things, and making it look fresh. Sometimes this requires calling in a professional stager.
 
