@@ -19,7 +19,7 @@ youtube_code: HZHbw5jaDKw
 
 {% include youtube.html %}
 
-Here are four points to consider if you’re wondering whether you can qualify for a loan to purchase a home.
+<p style="text-align: center;"><em>Here are four points to consider if you’re wondering whether you can qualify for a loan to purchase a home.</em></p>
 
 When I was 20 years old, my father asked me one day to get my bank book. Once I did, he told me I was buying a house. It scared the heck out of me, but he helped me understand four critical pieces of information that taught me I really could afford to buy a house. At the time, I didn’t have enough cash to buy, so I knew I needed a mortgage, and these four points were the criteria lenders use to determine whether a buyer is qualified to buy.
 
