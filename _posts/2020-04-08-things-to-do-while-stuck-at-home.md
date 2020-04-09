@@ -19,7 +19,7 @@ youtube_code: Fvra869ay-w
 
 {% include youtube.html %}
 
-*Looking for ways to keep busy at home? We've got you covered.*
+<p style="text-align: center;"><em>Looking for ways to keep busy at home? We've got you covered.</em></p>
 
 We’re all staying home right now because it’s the right thing to do. Today we wanted to send some ideas of fun things you can do while stuck at home. Here are a few things you can do virtually: [Walt Disney World](https://www.youtube.com/channel/UCYyJUEtYv-ZW7BgjhP3UbTg/videos), [Broadway](https://www.broadwayhd.com/), [take digital yoga classes](https://www.yourtango.com/2018317900/15-best-free-yoga-videos-youtube-has-offer), [take museum tours](https://chicago.curbed.com/2020/3/20/21188477/virtual-tour-chicago-museums-cultural-institutions-home), and more.
 
