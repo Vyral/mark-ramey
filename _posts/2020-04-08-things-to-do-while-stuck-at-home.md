@@ -19,7 +19,7 @@ youtube_code: Fvra869ay-w
 
 {% include youtube.html %}
 
-<p style="text-align: center;"><em>We’re all staying home right now due to the health crisis. Today we’re sharing a few fun things you can do to pass the time.</em></p>
+<p style="text-align: center;"><em>Looking for ways to keep busy at home? We've got you covered.</em></p>
 
 We’re all staying home right now because it’s the right thing to do. Today we wanted to send some ideas of fun things you can do while stuck at home. Here are a few things you can do virtually: Walt Disney World, Broadway, take digital yoga classes, take museum tours, and more.
 
