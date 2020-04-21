@@ -19,7 +19,7 @@ youtube_code: s3obrqHn60w
 
 {% include youtube.html %}
 
-There are three main pitfalls to incorrectly pricing your home. Here’s why each is a mistake you don’t want to make.
+<p style="text-align: center;"><em>There are three main pitfalls to incorrectly pricing your home. Here’s why each is a mistake you don’t want to make.</em></p>
 
 I began selling real estate in 2002, so I’ve seen plenty of mistakes made in the real estate world. There are three main pitfalls you can experience from pricing your home incorrectly for the market:
 
