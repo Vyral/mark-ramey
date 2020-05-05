@@ -19,7 +19,7 @@ youtube_code: jVv7pFFPZZQ
 
 {% include youtube.html %}
 
-A pre-approval will give you a leg up as a homebuyer. Here is what you’ll need to get one.
+<p style="text-align: center;"><em>A pre-approval will give you a leg up as a homebuyer. Here is what you’ll need to get one.</em></p>
 
 Often I hear buyers ask, “What do I need to bring to my lender so that I can make an application for a loan?” Here’s your checklist.
 
