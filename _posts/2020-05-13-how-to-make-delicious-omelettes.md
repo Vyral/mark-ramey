@@ -23,7 +23,7 @@ youtube_code:
     <div class="col-sm-4">
         <img src="https://d1qmdf3vop2l07.cloudfront.net/modest-salamander.cloudvent.net/compressed/_min_/1abf592ba2ad2c3245498a13583795c7.jpg" style="width:90%;">
     </div>
-    <div class="col-sm-4">
+    <div class="col-sm-8">
         <p style="margin-left: 40px;">So, with the current state of the world I thought a nice sort of funny letter would be appropriate. During the weekends this last school year we would sometimes have one of the other exchange students come over and spend the weekend with Oliver and Thomas. One of their best friends from the exchange program was a young man named Andri from Switzerland. Needless to say, with all of these students in the house the warning sign to the left was appropriate. Derek would even say necessary.</p>
         <p style="margin-left: 40px;">Andri was not the kind of young man who watched idly from the sidelines. He was always getting involved with everything going on around him.</p>
     </div>
