@@ -33,7 +33,7 @@ youtube_code:
     <div class="col-sm-4">
         <img src="https://d1qmdf3vop2l07.cloudfront.net/modest-salamander.cloudvent.net/compressed/_min_/5fb4f7738558ad7aa811201987436f84.jpg" style="width:110%;">
     </div>
-    <div class="col-sm-8">
+    <div class="col-sm-6">
         <p style="text-indent: 40px;">I couldn’t even make breakfast for him. As soon as I started making omelettes one morning, he was right there asking how I made them. I showed him how and he made them for all of us that morning and any other morning that he was at the house.</p>
         <p style="text-indent: 40px;">Andri wrote the thank you letter to the left on the back of the above warning sign. His host mother brought it over after he had flown back to Switzerland while he still could.</p>
         <p style="text-indent: 40px;">I don’t think any of us were expecting the students' exchanges to end so quickly but all three boys are back home safely with their families. I actually had to drive Thomas to Miami to get him on what seemed to be the last flight on the planet going to Brazil.</p>
