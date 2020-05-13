@@ -17,7 +17,7 @@ youtube_alternate_image: /uploads/unnamed-1.jpg
 youtube_code:
 ---
 
-<div class="row" style="margin: 4rem 0;">
+<div class="row" style="margin: 0rem -60px;">
     <div class="col-sm-5">
         <img src="https://d1qmdf3vop2l07.cloudfront.net/modest-salamander.cloudvent.net/compressed/_min_/1abf592ba2ad2c3245498a13583795c7.jpg" style="width:90%;">
     </div>
@@ -27,7 +27,7 @@ youtube_code:
     </div>
 </div>
 
-<div class="row row-no-gutters" style="margin: 4rem 0;">
+<div class="row row-no-gutters" style="margin: 0rem -60px;">
     <div class="col-sm-5">
         <img src="https://d1qmdf3vop2l07.cloudfront.net/modest-salamander.cloudvent.net/compressed/_min_/5fb4f7738558ad7aa811201987436f84.jpg" style="width:110%;">
     </div>
