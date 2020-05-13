@@ -17,7 +17,7 @@ youtube_alternate_image: /uploads/unnamed-1.jpg
 youtube_code:
 ---
 
-<div class="row" style="margin: 0rem -60px;">
+<div class="row" style="margin: 0rem 100px;">
     <div class="col-sm-5">
         <img src="https://d1qmdf3vop2l07.cloudfront.net/modest-salamander.cloudvent.net/compressed/_min_/1abf592ba2ad2c3245498a13583795c7.jpg" style="width:90%;">
     </div>
@@ -27,7 +27,7 @@ youtube_code:
     </div>
 </div>
 
-<div class="row row-no-gutters" style="margin: 0rem -60px;">
+<div class="row row-no-gutters" style="margin: 0rem 100px;">
     <div class="col-sm-5">
         <img src="https://d1qmdf3vop2l07.cloudfront.net/modest-salamander.cloudvent.net/compressed/_min_/5fb4f7738558ad7aa811201987436f84.jpg" style="width:110%;">
     </div>
@@ -38,4 +38,4 @@ youtube_code:
     </div>
 </div>
 
-<p style="text-indent: 40px; margin-right: 40px">You might be wondering how to make delicious omelettes. It just takes practice until you can flip the eggs. Once you have that figured out, I suggest teaching it to someone else. You never know what can make a lasting memory. – Mark Ramey</p>
+<p style="text-indent: 40px; margin: 100px">You might be wondering how to make delicious omelettes. It just takes practice until you can flip the eggs. Once you have that figured out, I suggest teaching it to someone else. You never know what can make a lasting memory. – Mark Ramey</p>
