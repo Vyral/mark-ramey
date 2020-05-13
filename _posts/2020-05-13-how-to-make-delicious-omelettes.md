@@ -17,7 +17,14 @@ youtube_alternate_image: /uploads/unnamed-1.jpg
 youtube_code:
 ---
 
-How to Make Delicious Omelettes
+<h1 style="text-align: center;">How to Make Delicious Omelettes</h1>
+
+<div class="row" style="margin: 4rem 0;">
+    <div class="col-sm-4">
+        <img src="https://d1qmdf3vop2l07.cloudfront.net/modest-salamander.cloudvent.net/compressed/_min_/1abf592ba2ad2c3245498a13583795c7.jpg" style="width:30%;">
+        <p style="margin-left: 40px;">So, with the current state of the world I thought a nice sort of funny letter would be appropriate. During the weekends this last school year we would sometimes have one of the other exchange students come over and spend the weekend with Oliver and Thomas. One of their best friends from the exchange program was a young man named Andri from Switzerland. Needless to say, with all of these students in the house the warning sign to the left was appropriate. Derek would even say necessary.</p>
+    </div>
+</div>
 
 ![](/uploads/unnamed-2.jpg){: width="370" height="490"}So, with the current state of the world I thought a nice sort of funny letter would be appropriate. During the weekends this last school year we would sometimes have one of the other exchange students come over and spend the weekend with Oliver and Thomas. One of their best friends from the exchange program was a young man named Andri from Switzerland. Needless to say, with all of these students in the house the warning sign to the left was appropriate. Derek would even say necessary.
 
