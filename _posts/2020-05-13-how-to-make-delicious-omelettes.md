@@ -38,4 +38,4 @@ youtube_code:
     </div>
 </div>
 
-<p style="text-indent: 40px; margin-left: 100px; margin-right: 100px;">You might be wondering how to make delicious omelettes. It just takes practice until you can flip the eggs. Once you have that figured out, I suggest teaching it to someone else. You never know what can make a lasting memory. – Mark Ramey</p>
+<p style="text-indent: 40px; margin: 0rem 100px; margin-right: 40px;">You might be wondering how to make delicious omelettes. It just takes practice until you can flip the eggs. Once you have that figured out, I suggest teaching it to someone else. You never know what can make a lasting memory. – Mark Ramey</p>
