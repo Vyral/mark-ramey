@@ -31,7 +31,7 @@ youtube_code:
 
 <div class="row row-no-gutters" style="margin: 4rem 0;">
     <div class="col-sm-4">
-        <img src="https://d1qmdf3vop2l07.cloudfront.net/modest-salamander.cloudvent.net/compressed/_min_/5fb4f7738558ad7aa811201987436f84.jpg" style="width:90%;">
+        <img src="https://d1qmdf3vop2l07.cloudfront.net/modest-salamander.cloudvent.net/compressed/_min_/5fb4f7738558ad7aa811201987436f84.jpg" style="width:110%;">
     </div>
     <div class="col-sm-8">
         <p style="text-indent: 40px;">I couldn’t even make breakfast for him. As soon as I started making omelettes one morning, he was right there asking how I made them. I showed him how and he made them for all of us that morning and any other morning that he was at the house.</p>
