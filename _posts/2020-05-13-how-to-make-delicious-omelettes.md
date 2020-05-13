@@ -17,8 +17,6 @@ youtube_alternate_image: /uploads/unnamed-1.jpg
 youtube_code:
 ---
 
-<h1 style="text-align: center;">How to Make Delicious Omelettes</h1>
-
 <div class="row" style="margin: 4rem 0;">
     <div class="col-sm-4">
         <img src="https://d1qmdf3vop2l07.cloudfront.net/modest-salamander.cloudvent.net/compressed/_min_/1abf592ba2ad2c3245498a13583795c7.jpg" style="width:90%;">
