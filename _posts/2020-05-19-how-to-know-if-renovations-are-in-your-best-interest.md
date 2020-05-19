@@ -23,11 +23,16 @@ youtube_code: paBpq4WsQAw
 
 When making a decision as to whether you’re going to make renovations on your home, I’d like you to consider which home you have in the marketplace. Generally, there are three types of homes that are selling in today’s marketplace:&nbsp;
 
-* **The first type of home is the brand-new home.** Perhaps it’s a new build, or it recently underwent a complete overhaul renovation to thoroughly modernize it. This home will appeal to 99% of buyers in our marketplace.&nbsp;
+<ul>
+  <li>
+    <strong>The first type of home is the brand-new home.</strong> Perhaps it’s a new build, or it recently underwent a complete overhaul renovation to thoroughly modernize it. This home will appeal to 99% of buyers in our marketplace.</li>
 
-* **The second type of home is the one that’s in clean, move-in condition.** It may need a few renovations to suit individual buyers’ tastes, but the basics are all up to par.&nbsp;
+  <li>
+    <strong>The second type of home is the one that’s in clean, move-in condition.</strong> It may need a few renovations to suit individual buyers’ tastes, but the basics are all up to par.</li>
 
-* **The third type of home is the one that needs repair.** It *could* sell as is, but whoever purchases it does so knowing that it will need some serious work.&nbsp;
+  <li>
+    <strong>The third type of home is the one that needs repair.</strong> It *could* sell as is, but whoever purchases it does so knowing that it will need some serious work.</li>
+</ul>
 
 Selling the first home is fairly straightforward: I have my professional photographer come out to snap some stellar pictures, we get it on the market, and we get it sold. These types of homes usually sell quickly with little to no hassle.
 
