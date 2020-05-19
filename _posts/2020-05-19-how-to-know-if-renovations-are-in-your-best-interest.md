@@ -5,7 +5,8 @@ date: 2020-05-19 20:12:10
 tags:
   - Home Seller Tips
 excerpt: The first step in solving the renovation dilemma is knowing your home type.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Mark+Ramey/2020/%5B1-23%5D+Should+You+Renovate+Before+You+Sell_.mp4
 pullquote: >-
   If you need to make some renovations, we have some amazing, fully-vetted
   professionals that we’d love to connect you with.
