@@ -31,7 +31,7 @@ When making a decision as to whether you’re going to make renovations on your 
     <strong>The second type of home is the one that’s in clean, move-in condition.</strong> It may need a few renovations to suit individual buyers’ tastes, but the basics are all up to par.</li>
 
   <li>
-    <strong>The third type of home is the one that needs repair.</strong> It *could* sell as is, but whoever purchases it does so knowing that it will need some serious work.</li>
+    <strong>The third type of home is the one that needs repair.</strong> It <em>could</em> sell as is, but whoever purchases it does so knowing that it will need some serious work.</li>
 </ul>
 
 Selling the first home is fairly straightforward: I have my professional photographer come out to snap some stellar pictures, we get it on the market, and we get it sold. These types of homes usually sell quickly with little to no hassle.
