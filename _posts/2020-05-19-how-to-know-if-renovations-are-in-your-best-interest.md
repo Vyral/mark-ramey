@@ -18,7 +18,7 @@ youtube_code: paBpq4WsQAw
 
 {% include youtube.html %}
 
-The first step in solving the renovation dilemma is knowing your home type.
+<p style="text-align: center;"><em>The first step in solving the renovation dilemma is knowing your home type.</em></p>
 
 When making a decision as to whether you’re going to make renovations on your home, I’d like you to consider which home you have in the marketplace. Generally, there are three types of homes that are selling in today’s marketplace:&nbsp;
 
