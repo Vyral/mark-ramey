@@ -17,7 +17,7 @@ youtube_code: RS8uWZNPIrU
 
 {% include youtube.html %}
 
-Home staging pays for itself because of these three facts.
+<p style="text-align: center;"><em>Home staging pays for itself because of these three facts.</em></p>
 
 Here are three reasons why staging your home is a benefit to your home sale:
 
