@@ -19,7 +19,7 @@ youtube_code: hDqZ6-alROU
 
 {% include youtube.html %}
 
-Every parent wants to set their child up for success, and here’s how.
+<p style="text-align: center;"><em>Every parent wants to set their child up for success, and here’s how.</em></p>
 
 Moving is stressful enough, but getting your kids into that new school district can be a whole challenge unto itself.&nbsp;
 
