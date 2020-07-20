@@ -24,4 +24,4 @@ youtube_code:
 
 <p style="text-indent: 40px;">Best of all I have realized how lucky I am to have Derek in my life. How great it is to be able to work with my sister every day and how blessed I am to have the best team of people working with me that I could imagine having. I have watched them all adapt to new systems, work environments and challenges that none of us saw coming. We may not be sitting in adjacent desks as much as we use to be but we are there for each other every day. So maybe the world hasn’t actually changed much at all.&nbsp; – Sincerely, Mark Ramey</p>
 
-![](/uploads/mark-zoom---earth.jpg){: width="1430" height="533"}
+![](/uploads/mark-zoom---earth.jpg){: width="50%"}
