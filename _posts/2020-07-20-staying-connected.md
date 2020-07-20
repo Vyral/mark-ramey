@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Staying Connected
-date: 2020-07-20 19:47:54
+date: 2020-07-20 19:47:00
 tags:
   - Letters from the Heart
 excerpt:
