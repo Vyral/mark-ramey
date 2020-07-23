@@ -17,7 +17,7 @@ youtube_code: nD6Er8A_heg
 
 {% include youtube.html %}
 
-Moving is stressful for kids, so help them along with these great tips.Moving is stressful for kids, so help them along with these great tips.
+<p style="text-align: center;"><em>Moving is stressful for kids, so help them along with these great tips.Moving is stressful for kids, so help them along with these great tips.</em></p>
 
 Moving is often very stressful for children. The first things they think about are giving up their friends and their favorite aspects of their current home. I want to share a few strategies that may make them feel more comfortable with the process.&nbsp;
 
