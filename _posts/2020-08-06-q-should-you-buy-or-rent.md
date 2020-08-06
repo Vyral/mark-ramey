@@ -17,7 +17,8 @@ youtube_code: _GfxT5--87s
 
 {% include youtube.html %}
 
-*Which is better right now: buying or renting?*
+<center><em>Which is better right now: buying or renting?</em></center>
+&nbsp;
 
 Given the state of our market and economy lately, many people have been reaching out to ask me the following question: Is it better to buy or rent?
 
