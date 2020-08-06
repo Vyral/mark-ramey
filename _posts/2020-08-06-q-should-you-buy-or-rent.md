@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Q: Should You Buy or Rent?'
-date: 2020-08-06 21:10:27
+date: 2020-08-06 21:10:00
 tags:
 excerpt: 'Which is better right now: buying or renting?'
 enclosure:
@@ -17,8 +17,7 @@ youtube_code: _GfxT5--87s
 
 {% include youtube.html %}
 
-
-
+*Which is better right now: buying or renting?*
 
 Given the state of our market and economy lately, many people have been reaching out to ask me the following question: Is it better to buy or rent?
 
