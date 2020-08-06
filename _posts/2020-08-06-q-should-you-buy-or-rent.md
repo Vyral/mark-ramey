@@ -17,7 +17,8 @@ youtube_code: _GfxT5--87s
 
 {% include youtube.html %}
 
-<center><em> Which is better right now: buying or renting? </em></center>
+<center><em>Which is better right now: buying or renting? </em></center>
+
 
 &nbsp;
 
