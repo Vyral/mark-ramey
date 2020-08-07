@@ -1,9 +1,9 @@
 ---
 layout: post
 title: The Space for Something New
-date: 2020-08-07 16:40:24
+date: 2019-11-11 16:40:24
 tags:
-  - Home Buyer Tips
+  - Letters of the Heart
 excerpt: "With the school year well under way, I have been asked a few times if Derek and I had decided to host another Rotary exchange student this year.\_ I am happy to report that we are now hosting two Rotary Youth exchange students.\_ Thomas is a 17-year-old young man from Brazil and Oliver is a 17-year-old young man from a small village outside of Prague in Czechia.\_ We had the normal bumps at the beginning of the year (submitting homework on a laptop and going from a school of 400 students to 4000 students) but overall everything has gone smoothly."
 enclosure:
 pullquote:
