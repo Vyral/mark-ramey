@@ -3,7 +3,7 @@ layout: post
 title: Inspired to Climb
 date: 2017-07-03 00:00:00
 tags:
-  - Market Update
+  - Letters of the Heart
 excerpt: "About 3 years ago, Derek noticed that the Disney Magic Cruise Ship did a summer trip through Scandinavia that looked incredible.\_ As soon as he showed it to me, we both agreed that we would have to do this trip as soon as possible."
 enclosure:
 pullquote:
