@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Lost in Translation
-date: 2020-08-07 16:56:29
+date: 2020-01-01 16:56:29
 tags:
-  - Home Buyer Tips
+  - Letters of the Heart
 excerpt: >-
   Hosting two exchange students from different parts of the world can have its
   challenges. Language, primarily English not being either of their primary
