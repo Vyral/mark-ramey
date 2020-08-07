@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Creating the Conditions
-date: 2020-08-07 15:57:17
+date: 2017-04-04 15:57:17
 tags:
-  - Home Buyer Tips
+  - Letters of the Heart
 excerpt: "My partner Derek was first introduced to hummingbirds when he traveled up to Michigan to help my father after he was diagnosed with lymphatic cancer.\_ At the time, my father had decided to go through his chemotherapy treatments in Florida, but he and my stepmother needed help getting their house in Michigan closed up, so Derek flew up to help them get everything ready and eventually drove them both to Orlando."
 enclosure:
 pullquote:
