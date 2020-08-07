@@ -3,7 +3,7 @@ layout: post
 title: How to Make Delicious Omelettes
 date: 2020-05-13 18:19:05
 tags:
-  - Letters from the Heart
+  - Letters of the Heart
 excerpt: >-
   In respect to our current climate of social distancing we thought that the
   easiest way to minimize points of contact in regards to sending out these
