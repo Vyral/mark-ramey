@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Time is Best When it is Shared
-date: 2020-08-07 16:44:59
+date: 2019-05-05 16:44:59
 tags:
-  - Home Buyer Tips
+  - Letters of the Heart
 excerpt: "Have you even noticed that when you see an enormous moon on the horizon that it just isn’t enough to look at it?\_ You have to make sure that at least one other person has looked at it with you.\_ It is almost as if the moon itself isn’t beautiful until the experience of seeing it is shared."
 enclosure:
 pullquote:
