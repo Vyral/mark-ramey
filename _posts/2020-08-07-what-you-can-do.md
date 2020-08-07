@@ -1,7 +1,7 @@
 ---
 layout: post
 title: What you can do
-date: 2020-08-07 16:05:29
+date: 2020-08-07 16:05:00
 tags:
   - Home Buyer Tips
 excerpt: "The summer heat has forced Derek to a very limited amount of time in our garden so like any enthusiast he has turned to gardening shows on Netflix.\_ His favorite show at the moment is called Love Your Garden. It is a British show where a crew of professional gardeners surprise a family that is experiencing overwhelming hardships with a complete garden (back yard) makeover."
@@ -14,7 +14,7 @@ youtube_alternate_image: /uploads/unnamed-1-1.jpg
 youtube_code:
 ---
 
-*What you****can*** *do*
+*What you&nbsp;****can*** *do*
 
 The summer heat has forced Derek to a very limited amount of time in our garden so like any enthusiast he has turned to gardening shows on Netflix.&nbsp; His favorite show at the moment is called *Love Your Garden.* It is a British show where a crew of professional gardeners surprise a family that is experiencing overwhelming hardships with a complete garden (back yard) makeover.&nbsp;&nbsp;
 
