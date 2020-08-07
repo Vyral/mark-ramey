@@ -1,9 +1,8 @@
 ---
 layout: post
 title: Taking a Moment Not To Think
-date: 2020-02-02 16:52:05
+date: 2019-02-02 16:52:00
 tags:
-  - Letters of the Heart
 excerpt: >-
   Derek and I took our current exchange student, Lotta, to Epcot a few weeks ago
   to explore the countries of The World Showcase.  We stopped in the China
