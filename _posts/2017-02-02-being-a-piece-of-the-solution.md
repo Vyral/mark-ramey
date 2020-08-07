@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Being a Piece of the Solution
-date: 2020-08-07 15:44:04
+date: 2017-02-02 15:44:04
 tags:
-  - Home Seller Tips
+  - Letters of the Heart
 excerpt: >-
   One of the biggest reasons that I really enjoy being a member of the Rotary
   Club of Dr. Phillips is how the group has introduced me to so many wonderful
