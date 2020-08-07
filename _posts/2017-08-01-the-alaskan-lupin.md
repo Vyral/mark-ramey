@@ -3,7 +3,7 @@ layout: post
 title: The Alaskan Lupin
 date: 2017-08-01 00:00:00
 tags:
-  - Letters of the Heart
+  - letters of the heart
 excerpt: >-
   Many of you read the last letter that I sent out in regards to a trip that I
   took earlier this summer through Scandinavia. I have one more story that I
