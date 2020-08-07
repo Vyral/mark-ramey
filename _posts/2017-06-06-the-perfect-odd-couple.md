@@ -1,9 +1,9 @@
 ---
 layout: post
 title: The Perfect Odd Couple
-date: 2020-08-07 15:41:01
+date: 2017-06-06 15:41:01
 tags:
-  - Home Seller Tips
+  - Letters of the Heart
 excerpt: "One of my favorite times of the day is when I get home in the evening and Derek and I get to tell each other stories from our day.\_ Derek is a licensed massage therapist and he works several days a week at a local time share resort.\_ He works in a pool side cabana where resort guests can come directly from the pool to massage table."
 enclosure:
 pullquote:
