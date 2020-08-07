@@ -1,9 +1,9 @@
 ---
 layout: post
 title: It Isn't Always Everything or Nothing
-date: 2020-08-07 16:48:53
+date: 2019-07-07 16:48:53
 tags:
-  - Home Buyer Tips
+  - Letters of the Heart
 excerpt: "In 2006 Derek and I adopted 2 Siamese cats, a brother and sister.\_ Some of you will remember that the brother, Luke Skywalker, passed away last year.\_ His sister Tabitha recently got her own cat stroller and I thought you might enjoy the story."
 enclosure:
 pullquote:
