@@ -1,9 +1,9 @@
 ---
 layout: post
 title: “Seasons of Love”
-date: 2020-08-07 00:00:00
+date: 2018-06-06 00:00:00
 tags:
-  - Home Seller Tips
+  - Letters of the Heart
 excerpt: >-
   Derek and I recently went to see the 20th anniversary production of Rent at
   the Dr. Phillips Performing Arts Center.  It was a great production that
