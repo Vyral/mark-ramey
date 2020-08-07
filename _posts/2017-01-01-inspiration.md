@@ -3,14 +3,13 @@ layout: post
 title: Inspiration
 date: 2017-01-01 00:00:00
 tags:
-  - Letters of the Heart
 excerpt: "I am always inspired by the people I meet, and as the New Year begins I like to take a moment to reflect on what it is about people that inspires me the most.\_ It seems that the quality of Integrity continues to be at the top of the list."
 enclosure:
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image: /uploads/bigstock-flat-lay-office-desk-table-of--315442480-1.jpg
+youtube_alternate_image: /uploads/bigstock-flat-lay-office-desk-table-of--315442480-1-1.jpg
 youtube_code:
 ---
 
