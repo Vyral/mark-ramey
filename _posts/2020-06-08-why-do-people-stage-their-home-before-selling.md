@@ -3,7 +3,7 @@ layout: post
 title: Why Do People Stage Their Home Before Selling?
 date: 2020-06-08 15:56:42
 tags:
-  - Home Seller Tips
+  - Letters of the Heart
 excerpt: Home staging pays for itself because of these three facts.
 enclosure: >-
   https://vyralmarketing.s3.amazonaws.com/Mark+Ramey/2020/The+Mark+Ramey+Group-+%5B23-24%5D+_+Staging.mp4
