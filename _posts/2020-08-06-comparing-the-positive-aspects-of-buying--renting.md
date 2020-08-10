@@ -4,7 +4,8 @@ title: Comparing the Positive Aspects of Buying & Renting
 date: 2020-08-06 21:10:00
 tags:
 excerpt: 'Which is better right now: buying or renting?'
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Mark+Ramey/2020/The+Mark+Ramey+Group-+%5B17-23%5D+Buying+vs+Renting.mp4
 pullquote: >-
   Homeownership allows you to personalize your home and make choices when it
   comes to decorating and remodeling.
