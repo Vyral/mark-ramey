@@ -25,18 +25,18 @@ Given the state of our market and economy lately, many people have been reaching
 {% include pullquote.html %}
 
 Let’s start with the positives of renting:
-
-**• There’s no down payment**. You simply have to come up with your first month’s rent and a security deposit, which can be less expensive than a down payment on a home.&nbsp;
-**• You’re not responsible for maintenance**—the landlord takes care of it all.&nbsp;
-**• It’s a short-term obligation.**&nbsp;
-**• It gives you freedom** to decide where you want to live on shorter notice.
-
+<ul>
+<li><b>There’s no down payment.</b> You simply have to come up with your first month’s rent and a security deposit, which can be less expensive than a down payment on a home.</li>
+<li><b>You’re not responsible for maintenance</b>—the landlord takes care of it all.</li>
+<li><b>It’s a short-term obligation.</b></li>
+<li><b>It gives you freedom</b> to decide where you want to live on shorter notice.</li>
+</ul>
 Now, here are some of the pros of buying a home:
-
-**• Rental rates are at an all-time high.**
-**• Mortgages are *less than*** **rent**. After the down payment, mortgage payments are frequently less than rental rates, meaning that people can often get into a nicer property by buying it than they can by renting it.&nbsp;
-**• You can pay your own debt.** Instead of paying down someone else’s mortgage like you do when you rent, you can drop your own debt, which puts you one step closer to financial freedom.&nbsp;
-**• The market appreciates.** On average, properties in our area will appreciate anywhere between 3% and 5% each year. For a $200,000 property, that’s between $6,000 and $10,000 of potential annual appreciation.&nbsp;
-**• It gives you freedom**. Homeownership allows you to personalize your living space and make fun choices when it comes to decorating and remodeling.&nbsp;
-
+<ul>
+<li><b>Rental rates are at an all-time high.</b></li>
+<li><b>Mortgages are <i>less than</i> rent.</b> After the down payment, mortgage payments are frequently less than rental rates, meaning that people can often get into a nicer property by buying it than they can by renting it.</li>
+<li><b>You can pay your own debt.</b> Instead of paying down someone else’s mortgage like you do when you rent, you can drop your own debt, which puts you one step closer to financial freedom.</li>
+<li><b>The market appreciates.</b> On average, properties in our area will appreciate anywhere between 3% and 5% each year. For a $200,000 property, that’s between $6,000 and $10,000 of potential annual appreciation.</li>
+<li><b>It gives you freedom.</b> Homeownership allows you to personalize your living space and make fun choices when it comes to decorating and remodeling.</li>
+</ul>
 If you have any more questions about whether it’s in your best interest to rent or purchase, consider me your resource. You can reach out to me via phone or email at any time.
