@@ -28,6 +28,13 @@ I was with Kathy when she and her family found her youngest grandson.&nbsp; They
 
 We have emotions for a reason.&nbsp; I truly believe that I saw this family heal by just letting them out and not reacting the way they should, but by the only way they could.&nbsp; My new understanding of autism has me thinking that the rest of us should give that “letting them out” thing a try.&nbsp; It feels great\!&nbsp;
 
-If you would like to get more information about Autism Speaks, check out their web site at autismspeaks.org and if you feel inclined to do so, donations are always welcome.&nbsp;
+<div class="row" style="margin: 4rem 0;">
+  <div class="sm-col-8">
+    <p>If you would like to get more information about Autism Speaks, check out their web site at autismspeaks.org and if you feel inclined to do so, donations are always welcome.&nbsp;</p>
+  </div>
+  <div class="sm-col-4">
+    <img src="https://vyralmarketing.s3.amazonaws.com/Mark+Ramey/LotH/2017/November+2017.png">
+  </div>
+</div>
 
 Happy Holidays – Mark Ramey
