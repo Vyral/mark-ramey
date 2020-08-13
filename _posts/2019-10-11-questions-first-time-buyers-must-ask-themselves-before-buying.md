@@ -12,8 +12,9 @@ enclosure: >-
 pullquote: 'To get a mortgage, you generally need a credit score of at least 620.'
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: true
-youtube_alternate_image:
+use_youtube_image: false
+youtube_alternate_image: >-
+  https://vyralmarketing.s3.amazonaws.com/Mark+Ramey/2019/10.10+-+Mark+Ramey+-+YT.jpg
 youtube_code: VTj1sUHX7LQ
 ---
 
