@@ -36,7 +36,14 @@ To my surprise, I found out the next day that at the same time I was watching *R
 
 I have to be honest that I was moved to tears when I watched the video of the students singing on stage.&nbsp; “It’s time now to sing out because the story never ends,” the students sang as the audience wiped their tears and cheered. “Let’s celebrate, remember … the life of friends. It’s about love.”&nbsp;&nbsp;
 
-I think that Jonathan would be proud to know that even though we still have our struggles, the best way to measure a life is still to measure it in love.&nbsp;&nbsp;
+<div class="row" style="margin: 4rem 0;">
+  <div class="col-sm-7">
+    <p>I think that Jonathan would be proud to know that even though we still have our struggles, the best way to measure a life is still to measure it in love.&nbsp;&nbsp</p>
+  </div>
+  <div class="col-sm-5">
+    <img src="https://vyralmarketing.s3.amazonaws.com/Mark+Ramey/LotH/2018/June+2018.jpg" width="100%">
+  </div>
+</div>
 
 Sincerely,
 
