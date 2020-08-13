@@ -35,8 +35,8 @@ On project day, the *Rise Against Hunger* team had the entire processing area or
   <div class="col-sm-11">
   <p>Hunger, like so many of the problems that are happening around us, can seem overwhelming until you realize that you only have to be willing to make the choice to be part, just a piece, of the solution.&nbsp; One person standing next to their friends and family can do amazing things.&nbsp;&nbsp;</p>
   </div>
-  <div>
+  <div class="class-sm-1">
      <img src="https://vyralmarketing.s3.amazonaws.com/Mark+Ramey/LotH/2017/February+2017.jpg" width="100%">
   </div>
-  <div>
+</div>
 Mark Ramey&nbsp;
