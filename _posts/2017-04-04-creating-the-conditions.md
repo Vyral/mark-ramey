@@ -26,6 +26,13 @@ I came home from work and Derek had drawn up an entire garden lay out with irrig
 
 The first garden was completed about 4 years ago and the new plants filled in almost immediately and that first summer the hummingbirds found us.&nbsp; A red throated male and a brown female. &nbsp; They came back the next summer, to even larger gardens, and then two years ago, 2 babies arrived.&nbsp; They were so small that at first we thought they were dragon flies but we recognized the flight pattern from the parents and eventually we were able to get close enough to confirm that they were baby hummingbirds.&nbsp; Last year another two babies joined the family and as I am writing this the shrubs are about to bloom so we should be seeing all of them again soon this summer.&nbsp;
 
-Don’t be afraid to create the conditions in your life that inspire you this spring.&nbsp; Take your ideas, write them down, draw them out, talk to your friends and family members and get started.&nbsp; Let people help you and enjoy the process of creating the possibility of something beautiful simply finding you.&nbsp;&nbsp;
+<div class="row" style="margin: 4rem 0;">
+  <div class="col-sm-10">
+  Don’t be afraid to create the conditions in your life that inspire you this spring.&nbsp; Take your ideas, write them down, draw them out, talk to your friends and family members and get started.&nbsp; Let people help you and enjoy the process of creating the possibility of something beautiful simply finding you.&nbsp;&nbsp;
+  </div>
+  <div class="col-sm-2">
+     <img src="https://vyralmarketing.s3.amazonaws.com/Mark+Ramey/LotH/2017/April+2017.jpg">
+  </div>
+</div>
 
 Mark Ramey
