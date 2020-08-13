@@ -34,7 +34,7 @@ Our dear friend Mary was sitting with us on the tour and she reflected that she 
     <p>It is an interesting moment when you realize that you are the tourist leaving your footprint on someone else’s land.&nbsp; Being from Orlando, the shoe is usually on the other foot.&nbsp; Tourism changes the landscape. That is inevitable and what it was intended to do. It is the people who sincerely share the essence of what makes their home special with others that truly makes the world a beautiful place to visit. &nbsp; Being that person is what makes Orlando so special for the rest of the world.&nbsp;</p>
   </div>
   <div class="sm-col-3">
-  <img src="https://vyralmarketing.s3.amazonaws.com/Mark+Ramey/LotH/2017/August+2017.jpg">
+  <img src="https://vyralmarketing.s3.amazonaws.com/Mark+Ramey/LotH/2017/August+2017.jpg" width="100%">
   </div>
 </div>
 
