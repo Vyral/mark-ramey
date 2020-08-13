@@ -10,7 +10,7 @@ pullquote:
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image: /uploads/pexels-photo-357141.jpeg
+youtube_alternate_image: 'https://vyralmarketing.s3.amazonaws.com/Mark+Ramey/LotH/2019/July+2019.jpg'
 youtube_code:
 ---
 
