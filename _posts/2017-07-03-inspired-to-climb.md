@@ -30,7 +30,7 @@ The weather was perfect, the trail was treacherous, and the view at the top was 
   <div class="col-sm-10">
   <p>Life throws mountains at us, whether they are in the form of a diagnosis or actual mountains.&nbsp; We get to choose if we want to take the risk to actually experience the climb exactly as we are, instead of sitting on the sidelines wishing that we were the kind of person that gets to the top.&nbsp;</p>
   </div>
-  <div class="col-sm-12">
+  <div class="col-sm-2">
      <img src="https://vyralmarketing.s3.amazonaws.com/Mark+Ramey/LotH/2017/July+2017.jpg" width="100%">
   </div>
 </div>
