@@ -30,10 +30,10 @@ Throughout the day as we drove by massive fields of purple flowers, our guide to
 Our dear friend Mary was sitting with us on the tour and she reflected that she had moved to Orlando in 1951.&nbsp; Tourism wasn’t new at the time, people had been traveling to the Silver Springs State Park in Florida to ride the glass bottom boats since 1878, but it had its borders.&nbsp; The borders of tourism in Orlando are long gone, along with the orange groves that are now walled neighborhoods and strip malls. You could almost see the pain in her eyes as she thought about what tourism will do to this little island.&nbsp; Yet there we were, Iceland tourists, enjoying the fields of non-indigenous purple flowers and the wondrous sights that the island has to offer.
 
 <div class="row" style="margin: 4rem 0;">
-  <div class="sm-col-9">
+  <div class="col-sm-9">
     <p>It is an interesting moment when you realize that you are the tourist leaving your footprint on someone else’s land.&nbsp; Being from Orlando, the shoe is usually on the other foot.&nbsp; Tourism changes the landscape. That is inevitable and what it was intended to do. It is the people who sincerely share the essence of what makes their home special with others that truly makes the world a beautiful place to visit. &nbsp; Being that person is what makes Orlando so special for the rest of the world.&nbsp;</p>
   </div>
-  <div class="sm-col-3">
+  <div class="col-sm-3">
   <img src="https://vyralmarketing.s3.amazonaws.com/Mark+Ramey/LotH/2017/August+2017.jpg" width="100%">
   </div>
 </div>
