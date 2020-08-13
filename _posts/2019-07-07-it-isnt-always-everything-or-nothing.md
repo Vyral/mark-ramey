@@ -15,10 +15,15 @@ youtube_code:
 ---
 
 **It isn’t always everything or nothing**
-
-In 2006 Derek and I adopted 2 Siamese cats, a brother and sister.&nbsp; Some of you will remember that the brother, Luke Skywalker, passed away last year.&nbsp; His sister Tabitha recently got her own cat stroller and I thought you might enjoy the story.
-
-After Luke passed away we noticed that Tabitha was meowing a lot at what seemed to be nothing. She was also continuously running into walls and pretty much anything that was in front of her.&nbsp; After the fourth time of drying her off because she walked right into the swimming pool we decided to have her eyes checked.&nbsp; Let’s just say that it wasn’t a surprise when our vet told us that she is pretty much blind.&nbsp; Now all of the near misses of the litter box actually made sense\!\!\!
+<div class="row" style="margin: 4rem 0;">
+  <div class="col-sm-2">
+    <img src="https://vyralmarketing.s3.amazonaws.com/Mark+Ramey/LotH/2019/July+2019.jpg" width="100%">
+  </div>
+    <div class="col-sm-10">
+    <p>In 2006 Derek and I adopted 2 Siamese cats, a brother and sister.&nbsp; Some of you will remember that the brother, Luke Skywalker, passed away last year.&nbsp; His sister Tabitha recently got her own cat stroller and I thought you might enjoy the story.</p>
+    <p>After Luke passed away we noticed that Tabitha was meowing a lot at what seemed to be nothing. She was also continuously running into walls and pretty much anything that was in front of her.&nbsp; After the fourth time of drying her off because she walked right into the swimming pool we decided to have her eyes checked.&nbsp; Let’s just say that it wasn’t a surprise when our vet told us that she is pretty much blind.&nbsp; Now all of the near misses of the litter box actually made sense!!!</p>
+  </div>
+</div>
 
 Tabitha’s new world is a lot smaller.&nbsp; We created a little cat spa in our bathroom with a cat bed, litter box and food and water dishes.&nbsp; She is safe from falling in the pool and even her near misses on the tile are much easier to clean up.&nbsp; The only problem is that the Tabitha we have always known wouldn’t stand for a small world.&nbsp; She would have jumped over that baby gate without missing a beat, ran out the cat door to the pool deck and talked squirrel to the cardinals.&nbsp; If you have ever owned a cat you will know what that means.&nbsp;
 
