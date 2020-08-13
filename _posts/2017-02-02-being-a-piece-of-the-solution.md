@@ -32,10 +32,10 @@ This is the beauty of the Rotary Club, you are never alone.&nbsp; When *Rise Aga
 On project day, the *Rise Against Hunger* team had the entire processing area organized and ready to go.&nbsp; As each volunteer signed in they were assigned a simple task.&nbsp; Some people measured beans, some measured rice.&nbsp; I personally ran a machine that heat sealed the packages of food so that they were ready to ship.&nbsp; Together our group of family and friends processed 10,216 meal packages in about 90 minutes.&nbsp; Our efforts fed over 61,000 people. &nbsp;
 
 <div class="row" style="margin: 4rem 0;">
-  <div class="col-sm-10">
+  <div class="col-sm-9">
   <p>Hunger, like so many of the problems that are happening around us, can seem overwhelming until you realize that you only have to be willing to make the choice to be part, just a piece, of the solution.&nbsp; One person standing next to their friends and family can do amazing things.&nbsp;&nbsp;</p>
   </div>
-  <div class="col-sm-2">
+  <div class="col-sm-3">
      <img src="https://vyralmarketing.s3.amazonaws.com/Mark+Ramey/LotH/2017/February+2017.jpg" width="100%">
   </div>
 </div>
