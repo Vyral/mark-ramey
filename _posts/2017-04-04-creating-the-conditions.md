@@ -28,10 +28,10 @@ The first garden was completed about 4 years ago and the new plants filled in al
 
 <div class="row" style="margin: 4rem 0;">
   <div class="col-sm-10">
-  Don’t be afraid to create the conditions in your life that inspire you this spring.&nbsp; Take your ideas, write them down, draw them out, talk to your friends and family members and get started.&nbsp; Let people help you and enjoy the process of creating the possibility of something beautiful simply finding you.&nbsp;&nbsp;
+  <p>Don’t be afraid to create the conditions in your life that inspire you this spring.&nbsp; Take your ideas, write them down, draw them out, talk to your friends and family members and get started.&nbsp; Let people help you and enjoy the process of creating the possibility of something beautiful simply finding you.</p>
   </div>
   <div class="col-sm-2">
-     <img src="https://vyralmarketing.s3.amazonaws.com/Mark+Ramey/LotH/2017/April+2017.jpg">
+     <img src="https://vyralmarketing.s3.amazonaws.com/Mark+Ramey/LotH/2017/April+2017.jpg" width="50%">
   </div>
 </div>
 
