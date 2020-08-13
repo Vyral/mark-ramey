@@ -27,10 +27,10 @@ After talking to Alinda, Derek and I were inspired to be fearless mountain climb
 The weather was perfect, the trail was treacherous, and the view at the top was awe inspiring.&nbsp; Alinda and Ricky made it half way up and back. She is actually still recovering from the tremendous effort that she committed to the hike and she had to spend the rest of the vacation in a wheelchair.&nbsp; Does she regret it?&nbsp; *Alinda who has Parkinson’s**and**climbs mountains* regrets nothing, and I couldn’t be more proud.
 
 <div class="row" style="margin: 4rem 0;">
-  <div class="col-sm-10">
+  <div class="col-sm-9">
   <p>Life throws mountains at us, whether they are in the form of a diagnosis or actual mountains.&nbsp; We get to choose if we want to take the risk to actually experience the climb exactly as we are, instead of sitting on the sidelines wishing that we were the kind of person that gets to the top.&nbsp;</p>
   </div>
-  <div class="col-sm-2">
+  <div class="col-sm-3">
      <img src="https://vyralmarketing.s3.amazonaws.com/Mark+Ramey/LotH/2017/July+2017.jpg" width="100%">
   </div>
 </div>
