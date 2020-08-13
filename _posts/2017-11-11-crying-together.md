@@ -33,7 +33,7 @@ We have emotions for a reason.&nbsp; I truly believe that I saw this family heal
     <p>If you would like to get more information about Autism Speaks, check out their web site at autismspeaks.org and if you feel inclined to do so, donations are always welcome.&nbsp;</p>
   </div>
   <div class="sm-col-4">
-    <img src="https://vyralmarketing.s3.amazonaws.com/Mark+Ramey/LotH/2017/November+2017.png">
+    <img src="https://vyralmarketing.s3.amazonaws.com/Mark+Ramey/LotH/2017/November+2017.png" width="100%">
   </div>
 </div>
 
