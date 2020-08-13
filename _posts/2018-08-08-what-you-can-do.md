@@ -26,6 +26,13 @@ United Against Poverty is an organization that serves those in poverty by provid
 
 Nina has told me stories of individuals that have come off the street to their center on Michigan Avenue and within 12 weeks have completed their programs, been placed in full time employment and are continuing to save money to cover deposits and get a home for themselves and their families. Knowing that I can contribute my time and resources to an organization that’s sole purpose is to inspire and empower people living in poverty to lift themselves and their families to economic sufficiency has allowed me to be confident in what I **can** do to help our community.&nbsp;&nbsp;
 
-I am not a gardener, but I know that with a little effort I can help a lot of people have the best day they can, and plant the seeds for an even better day tomorrow. For more information about United Against Poverty you can visit their website at uporlando.org.&nbsp;
+<div class="row" style="margin: 4rem 0;">
+  <div class="col-sm-10">
+    <p>I am not a gardener, but I know that with a little effort I can help a lot of people have the best day they can, and plant the seeds for an even better day tomorrow. For more information about United Against Poverty you can visit their website at uporlando.org.&nbsp;</p>
+  </div>
+  <div class="col-sm-2">
+    <img src="https://vyralmarketing.s3.amazonaws.com/Mark+Ramey/LotH/2018/September+2018.jpg" width="100%">
+  </div>
+</div>
 
 Mark Ramey
