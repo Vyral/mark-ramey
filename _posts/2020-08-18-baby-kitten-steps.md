@@ -26,7 +26,7 @@ youtube_code:
   <div class="col-sm-3">
     <img src="/uploads/kitteh.jpg" width="100%">
   </div>
-</div>
+</div><br>
 
 <div style="text-indent: 40px; font-size: 18px;">I have to be honest with you, since March it has felt like Derek and I have also been stuck in the guest room, called our house, trying to figure out where we can go and explore and feel safe. The outside world is calling us to come back. Mostly with “<em>SALE</em>” signs. We recently went to the Mall at Millenia, which has done a great job with their safety protocols, and the sales were unbelievable. Yes, we had to walk around in the air conditioning wearing face masks and carrying hand sanitizer and yes, there is inherent risk with everything. It just felt good to be smart and to do something that seemed somewhat normal.</div><br>
 
