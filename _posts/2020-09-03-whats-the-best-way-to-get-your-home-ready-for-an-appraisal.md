@@ -17,7 +17,7 @@ youtube_code: p-Iw3uzYhI8
 
 {% include youtube.html %}
 
-If you’re home’s being appraised, these tips will help you prepare.
+<p style="text-align: center;"><em>If you’re home’s being appraised, these tips will help you prepare.</em></p>
 
 These are the things that every home seller should focus on doing when getting their home ready for an appraisal:
 
