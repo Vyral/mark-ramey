@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How to Make Delicious Omelettes
+title: Letter of the Heart - How to Make Delicious Omelettes
 date: 2020-05-13 18:19:05
 tags:
   - Letters of the Heart
