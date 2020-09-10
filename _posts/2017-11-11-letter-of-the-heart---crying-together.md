@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Crying Together
+title: Letter of the Heart - Crying Together
 date: 2017-11-11 15:47:15
 tags:
   - Letters of the Heart
