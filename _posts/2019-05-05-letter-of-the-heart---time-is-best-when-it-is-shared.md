@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Time is Best When it is Shared
+title: Letter of the Heart - Time is Best When it is Shared
 date: 2019-05-05 16:44:59
 tags:
   - Letters of the Heart
