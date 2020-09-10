@@ -1,6 +1,6 @@
 ---
 layout: post
-title: “Seasons of Love”
+title: “Letter of the Heart - Seasons of Love”
 date: 2018-06-06 00:00:00
 tags:
   - Letters of the Heart
