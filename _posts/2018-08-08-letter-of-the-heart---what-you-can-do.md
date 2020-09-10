@@ -1,6 +1,6 @@
 ---
 layout: post
-title: What you can do
+title: Letter of the Heart - What you can do
 date: 2018-08-08 16:05:00
 tags:
   - Letters of the Heart
