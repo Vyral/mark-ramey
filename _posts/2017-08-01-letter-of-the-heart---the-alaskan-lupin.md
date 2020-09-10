@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The Alaskan Lupin
+title: Letter of the Heart - The Alaskan Lupin
 date: 2017-08-01 00:00:00
 tags:
   - Letters of the Heart
