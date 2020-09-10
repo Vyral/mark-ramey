@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Lost in Translation
+title: Letter of the Heart - Lost in Translation
 date: 2020-01-01 16:56:29
 tags:
   - Letters of the Heart
