@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Inspired to Climb
+title: Letter of the Heart - Inspired to Climb
 date: 2017-07-03 00:00:00
 tags:
   - Letters of the Heart
