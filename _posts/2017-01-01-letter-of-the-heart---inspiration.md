@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Inspiration
+title: Letter of the Heart - Inspiration
 date: 2017-01-01 00:00:00
 tags:
 excerpt: "I am always inspired by the people I meet, and as the New Year begins I like to take a moment to reflect on what it is about people that inspires me the most.\_ It seems that the quality of Integrity continues to be at the top of the list."
