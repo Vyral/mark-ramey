@@ -1,6 +1,6 @@
 ---
 layout: post
-title: It Isn't Always Everything or Nothing
+title: Letter of the Heart - It Isn't Always Everything or Nothing
 date: 2019-07-07 16:48:53
 tags:
   - Letters of the Heart
