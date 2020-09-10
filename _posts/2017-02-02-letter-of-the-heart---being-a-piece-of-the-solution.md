@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Being a Piece of the Solution
+title: Letter of the Heart - Being a Piece of the Solution
 date: 2017-02-02 15:44:04
 tags:
   - Letters of the Heart
