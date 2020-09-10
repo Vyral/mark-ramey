@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The Gift
+title: Letter of the Heart - The Gift
 date: 2018-12-12 16:12:06
 tags:
   - Letters of the Heart
