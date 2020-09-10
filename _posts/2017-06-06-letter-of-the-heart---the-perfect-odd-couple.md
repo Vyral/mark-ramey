@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The Perfect Odd Couple
+title: Letter of the Heart - The Perfect Odd Couple
 date: 2017-06-06 15:41:01
 tags:
   - Letters of the Heart
