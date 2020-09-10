@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Creating the Conditions
+title: Letter of the Heart - Creating the Conditions
 date: 2017-04-04 15:57:17
 tags:
   - Letters of the Heart
