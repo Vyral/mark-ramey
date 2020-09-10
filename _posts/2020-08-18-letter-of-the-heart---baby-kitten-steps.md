@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Baby Kitten Steps
+title: Letter of the Heart - Baby Kitten Steps
 date: 2020-08-18 13:59:45
 tags:
   - Letters of the Heart
