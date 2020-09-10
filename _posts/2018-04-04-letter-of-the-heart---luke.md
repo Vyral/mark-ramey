@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Luke
+title: Letter of the Heart - Luke
 date: 2018-04-04 16:09:17
 tags:
   - Letters of the Heart
