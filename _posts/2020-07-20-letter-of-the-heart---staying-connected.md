@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Staying Connected
+title: Letter of the Heart - Staying Connected
 date: 2020-07-20 19:47:00
 tags:
   - Letters of the Heart
