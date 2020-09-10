@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The Space for Something New
+title: Letter of the Heart - The Space for Something New
 date: 2019-11-11 16:40:24
 tags:
   - Letters of the Heart
