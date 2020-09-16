@@ -4,7 +4,7 @@ title: What’s the Best Way to Get Your Home Ready for an Appraisal?
 date: 2020-09-03 19:22:35
 tags:
   - Home Seller Tips
-excerpt: 'If you’re home’s being appraised, these tips will help you prepare.'
+excerpt: 'If your home’s being appraised, these tips will help you prepare.'
 enclosure: >-
   https://vyralmarketing.s3.amazonaws.com/Mark+Ramey/2020/The+Mark+Ramey+Group-+%5B4-23%5D+Getting+Prepared+for+an+Appraisal.mp4
 pullquote: Put a fresh coat of paint on the front of your home.
@@ -17,11 +17,11 @@ youtube_code: p-Iw3uzYhI8
 
 {% include youtube.html %}
 
-<p style="text-align: center;"><em>If you’re home’s being appraised, these tips will help you prepare.</em></p>
+<p style="text-align: center;"><em>If your home’s being appraised, these tips will help you prepare.</em></p>
 
 These are the things that every home seller should focus on doing when getting their home ready for an appraisal:
 
-**1\. Curb appeal.** Walk around outside and take a look at your property. Are there weeks in the driveway or front yard? If so, trim or pull them up. Trim and raise the level of the trees so you can see the house, and make sure the front of the home has a fresh coat of paint.
+**1\. Curb appeal.** Walk around outside and take a look at your property. Are there weeds in the driveway or front yard? If so, trim or pull them up. Trim and raise the level of the trees so you can see the house, and make sure the front of the home has a fresh coat of paint.
 
 **2\. Put pets away.** If your animals can be crated, please do that or take them to the dog park for an hour.
 
