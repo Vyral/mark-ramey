@@ -17,7 +17,7 @@ youtube_code: Ry8y2Z19D4k
 
 {% include youtube.html %}
 
-Here are the four main factors that homebuyers should take into account.
+<p style="text-align: center;"><em>Here are the four main factors that homebuyers should take into account.</em></p>
 
 Here are four tips that will ensure you are buying the right home for you and your family:
 
