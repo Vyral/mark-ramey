@@ -25,10 +25,10 @@ Here are four tips that will ensure you are buying the right home for you and yo
 
 **2\. Location.** Does the home have access to schools, shopping, recreation, and other places that are important to you and your family? You’ll also want to consider your commute to work. I can't tell you how many clients I’ve sold homes for because they were spending too much time traveling to and from work. Everyone wants a safe location, too. I recommend driving through it during the day and night to get more comfortable with the area.
 
-**3\. Features.** What’s going to be important in a home to you? It could be size, bedroom/bathroom count, or anything else. Consider the yard, the floorplan, and more.
+**3\. Features.** What do you want most in a home? It could be size, bedroom/bathroom count, or anything else. Consider the yard, the floorplan, and more.
 
 {% include pullquote.html %}
 
-**4\. Condition.** Typically, there are three types of houses. The first is brand-new, move-in condition. These properties are going to be priced at the top end of the market. The second is clean, move-in condition. These homes aren’t priced as high but don’t require any extra work. The third is a house that’s in ill repair. If you buy this kind of home, you’ll either be working on it yourself or managing a contractor, so you’re taking on some extra responsibility in exchange for a lower price.
+**4\. Condition.** Typically, there are three types of houses. The first is a brand-new, move-in condition home. These properties are priced at the top end of the market. The second is a clean, move-in condition home. These homes aren’t priced as high but don’t require any extra work. The third is a house that’s in ill repair. If you buy this kind of home, you’ll either be working on it yourself or managing a contractor, so you’re taking on some extra responsibility in exchange for a lower price.
 
 If you have any questions for me, don’t hesitate to reach out via phone or email. I look forward to hearing from you soon.
