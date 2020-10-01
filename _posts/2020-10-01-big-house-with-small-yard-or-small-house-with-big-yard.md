@@ -19,7 +19,7 @@ youtube_code: 4d26zmFR11E
 
 {% include youtube.html %}
 
-Should you buy a larger home with a small yard or a smaller home with a larger yard?
+<p style="text-align: center;"><em>Should you buy a larger home with a small yard or a smaller home with a larger yard?</em></p>
 
 To help you answer today’s question, let’s start with the pros of having a large house and a smaller yard. Obviously, **a large house provides plenty of storage, lots of space to entertain, and often has additional space for crafts and hobbies**. A drawback, however, is that larger homes have a lot more space to clean and have higher utility costs—especially if it’s an older home. A small yard means you’ll have less outdoor space, and people in Florida like being outside.
 
