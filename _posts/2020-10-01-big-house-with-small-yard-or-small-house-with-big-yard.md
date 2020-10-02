@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Big House With Small Yard, or Small House with Big Yard?'
+title: 'Big House With Small Yard, or Small House With Big Yard?'
 date: 2020-10-01 13:59:27
 tags:
   - Home Buyer Tips
