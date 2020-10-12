@@ -28,7 +28,7 @@ youtube_code:
 
 <div class="row" style="margin: 4rem 0;">
   <div class="col-sm-8">
-    <p style="text-indent: 40px;">We had to laugh, even the squirrels knew that too much of one thing isn’t good. So back to the original bag of mixed seeds we went. It is the variety of everything that makes life so interesting. A formal garden is beautiful but a field of wild flowers is breathtaking. There is something profound and very natural about that. <br>Sincerely,<br><br>Mark Ramey</p>
+    <p style="text-indent: 40px;">We had to laugh, even the squirrels knew that too much of one thing isn’t good. So back to the original bag of mixed seeds we went. It is the variety of everything that makes life so interesting. A formal garden is beautiful but a field of wild flowers is breathtaking. There is something profound and very natural about that. <br><br>Sincerely,<br><br>Mark Ramey</p>
   </div>
   <div class="col-sm-4">
     <img src="/uploads/Picture1.jpg" width="80%">
