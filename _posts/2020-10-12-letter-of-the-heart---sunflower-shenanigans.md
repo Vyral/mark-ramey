@@ -16,8 +16,6 @@ youtube_alternate_image: /uploads/Picture1.jpg
 youtube_code:
 ---
 
-{% include youtube.html %}
-
 <p style="text-indent: 40px;">About 3 years ago this month, Derek and I went out to Wyoming to help Derek’s parents remodel a bathroom. Derek’s parents are very handy but they needed some help moving things around. While we were there, one of their neighbors gave Derek a bag of sunflower seeds that they had harvested from their sunflower garden. The bag included a large variety of different colored seeds. Each one would grow a different type of sunflower. </p>
 
 <p style="text-indent: 40px;">The next spring Derek decided to plant the seeds and put in his first sunflower garden. Our exchange student at the time was Michi, from Sardinia Italy. Derek asked Michi to help him get the seeds started in some small starter pots. Planting seeds was completely new to Michi. He was fascinated when Derek explained that all the information and energy required to grow a 6 to 7-foot sunflower was in those tiny seeds. All they needed was some good soil, water, sunlight and someone to take care of them. You forget that knowing how things grow is something you learn. I’m pretty sure Michi thought that vegetables and flowers came from a market. </p>
