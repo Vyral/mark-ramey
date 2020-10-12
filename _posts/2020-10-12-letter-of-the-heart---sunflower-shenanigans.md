@@ -31,7 +31,7 @@ youtube_code:
     <p style="text-indent: 40px;">We had to laugh, even the squirrels knew that too much of one thing isn’t good. So back to the original bag of mixed seeds we went. It is the variety of everything that makes life so interesting. A formal garden is beautiful but a field of wild flowers is breathtaking. There is something profound and very natural about that. </p>
   </div>
   <div class="col-sm-4">
-    <img src="/uploads/Picture1.jpg" max-width="100%">
+    <img src="/uploads/Picture1.jpg" max-width="80%">
   </div>
 </div>
 
