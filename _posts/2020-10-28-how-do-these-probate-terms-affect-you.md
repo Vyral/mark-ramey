@@ -17,7 +17,7 @@ youtube_code: R7FmtcW3JEs
 
 {% include youtube.html %}
 
-Here’s a quick guide to some common probate terms you should know.
+<p style="text-align: center;"><em>Here’s a quick guide to some common probate terms you should know.</em></p>
 
 Today I’m joined by attorney John Ankner from the law firm Saunders & Saunders to talk about a very important topic: probate. I handle a lot of probate transactions, and it’s my opinion that the average person doesn’t know as much about probate as they should. In this interview, we’ll discuss all the important probate terms and how they apply to different situations.&nbsp;
 
