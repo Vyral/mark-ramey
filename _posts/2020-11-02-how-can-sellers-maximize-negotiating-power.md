@@ -17,7 +17,7 @@ youtube_code: jnGvO86o8Fc
 
 {% include youtube.html %}
 
-Here’s what sellers and their agents can do to ensure a top-dollar sale.
+<p style="text-align: center;"><em>Here’s what sellers and their agents can do to ensure a top-dollar sale.</em></p>
 
 What can sellers do to maximize and maintain their negotiating power throughout the entire selling process? First of all, when you list, **price your home competitively to open the market up as opposed to narrowing it**. In the right market, this gives a seller the greatest potential to receive multiple offers, which then allows them to negotiate from a position of strength—that’s always our goal.&nbsp;
 
