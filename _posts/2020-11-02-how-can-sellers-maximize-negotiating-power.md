@@ -27,8 +27,8 @@ In a multiple-offer situation, **a seller’s agent can call for every buyer to 
 
 {% include pullquote.html %}
 
-Also, part of the negotiations is establishing a timeline for inspections. Typically, we want to keep the timeline as short as we possibly can for the sellers; doing so limits the risk of being off the market for an extended period without an answer as to whether or not the buyer will be willing to move forward with the purchase.&nbsp;
+Also, part of the negotiations involves establishing a timeline for inspections. Typically, we want to keep the timeline as short as we possibly can for the sellers; doing so limits the risk of being off the market for an extended period without an answer as to whether or not the buyer will be willing to move forward with the purchase.&nbsp;
 
 Once the buyer and seller have agreed upon the terms, the focus turns to getting that offer signed and sent off to the title company and lender so processing can begin. **We don’t want to leave any extra time for the buyer to peruse a competitor’s website** and start doubting whether our seller’s home is truly the right fit.&nbsp;
 
-If you have any other questions about this process, please consider me a resource. Give me a call or send an email my way. I’d love to chat with you about your specific home seller needs.
+If you have any other questions about this process, please consider me a resource. Give me a call or send an email my way. I’d love to chat with you about your specific home-selling needs.
