@@ -1,19 +1,18 @@
 ---
 layout: post
 title: Thanksgiving Gratitude
-date: 2019-11-12 20:40:37
+date: 2020-11-09 20:40:37
 tags:
 excerpt: >-
   Today I’m sharing GEMs—a tool I use every day to help me experience a more
   peaceful life.
-enclosure: >-
-  https://vyralmarketing.s3.amazonaws.com/Mark+Ramey/2019/Thanksgiving+Gratitude.mp4
+enclosure: 'https://vyralmarketing.s3.amazonaws.com/Mark+Ramey/2020/videoplayback.mp4'
 pullquote: 'GEM stands for gratitude, experience, and manifestations.'
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
-youtube_alternate_image: 
-youtube_code: SpCJDdQvnYs
+youtube_alternate_image:
+youtube_code: 2i3862MZDeQ
 ---
 
 {% include youtube.html %}
