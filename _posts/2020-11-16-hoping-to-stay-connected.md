@@ -25,9 +25,9 @@ Some of you are receiving one of my videos for the first time, and to you, I apo
 
 The purpose of these videos is to provide you with valuable information and answer any questions about our community or real estate in general—why else would you watch them?&nbsp;
 
-My request to you is this: **If there’s ever something that you know about this community that you think would be important for everyone else to know, please reach out and let me know\!**
+My request of you is this: **If there’s ever something that you know about this community that you think would be important for everyone else to know, please reach out and let me know\!**
 
-Additionally, if there is a topic you’d like me to research and talk about in a future video, including a guest speaker you believe would be beneficial, you’re encouraged to alert me of that as well.
+Additionally, if there is a topic you’d like me to research and talk about in a future video, including a guest speaker you believe would be beneficial, I encourage you to alert me of that as well.
 
 Thank you all so much for watching our videos. If you have any questions, don’t hesitate to reach out to us at 407-956-6165 or send an email to [mark@themarkrameygroup.com](mailto:mark@themarkrameygroup.com).&nbsp;
 
