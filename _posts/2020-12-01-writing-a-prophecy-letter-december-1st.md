@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Writing a Prophecy Letter
+title: Writing a Prophecy Letter-December 1st
 date: 2020-12-01 17:34:00
 tags:
 excerpt: Writing a Prophecy Letter
