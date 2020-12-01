@@ -23,9 +23,9 @@ At the end of every year, I enjoy writing a prophecy letter about the next year.
 
 ***Oh, how wonderful it was to be able to travel again. To get back on an airplane, to get back on a cruise ship\!\! &nbsp; Seeing our exchange students, Michi and Lotta, in their home countries of Italy and Finland was definitely a highlight of the summer, heck, the highlight of the year\! Even the small trips were great. Getting out on the bicycles, paddle boards and going on hikes. Fresh air is a wonderful thing.***
 
-***The best part of this year though was watching people re-engaging with each other. Meeting more of our neighbors and realizing that we have more in common than we ever thought. Seeing homeless families that we supported last year through Rotary are doing so much better. That we were able to deliver Christmas gifts to an address this year and not a shelter. A roof might seem small unless you don’t have one. ***
+***The best part of this year though was watching people re-engaging with each other. Meeting more of our neighbors and realizing that we have more in common than we ever thought. Seeing homeless families that we supported last year through Rotary are doing so much better. That we were able to deliver Christmas gifts to an address this year and not a shelter. A roof might seem small unless you don’t have one.***
 
-***If I learned anything this last year, it is that keeping us separate did keep us safer. It didn’t necessarily keep us well.&nbsp; We need each other. ***
+***If I learned anything this last year, it is that keeping us separate did keep us safer. It didn’t necessarily keep us well.&nbsp; We need each other.***
 
 <div class="row" style="margin: 4rem 0;">
   <div class="col-sm-8">
