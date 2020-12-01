@@ -2,7 +2,7 @@
 layout: post
 title: Writing a Prophecy Letter-December 1st
 date: 2020-12-01 17:34:00
-tags:
+tags: '-Letters of the Heart'
 excerpt: Writing a Prophecy Letter
 enclosure:
 pullquote:
