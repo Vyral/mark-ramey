@@ -33,6 +33,6 @@ At the end of every year, I enjoy writing a prophecy letter about the next year.
   <p>Happy Holidays – Mark Ramey</p>
   </div>
   <div class="col-sm-4">
-     <img src="https://vyralmarketing.s3.amazonaws.com/Mark+Ramey/LotH/2020/Picture1.jpg" max-width="100%">
+     <img src="https://vyralmarketing.s3.amazonaws.com/Mark+Ramey/LotH/2020/Picture1.jpg" width="100%">
   </div>
 </div>
