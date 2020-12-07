@@ -18,7 +18,7 @@ youtube_code: fAD2vFjx3b8
 
 {% include youtube.html %}
 
-Here are the new features that have just been added to our KW app.
+<p style="text-align: center;"><em>Here are the new features that have just been added to our KW app.</em></p>
 
 Perhaps you’re already using my KW real estate app, perhaps you’re not. If you aren’t, I wanted to talk to you about some of the new features that we’ve added.
 
