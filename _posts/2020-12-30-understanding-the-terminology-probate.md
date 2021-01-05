@@ -4,7 +4,8 @@ title: 'Understanding the Terminology: Probate'
 date: 2020-12-30 21:25:03
 tags:
 excerpt: Unpacking all the complicated terms surrounding the probate process.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Mark+Ramey/2021/Understanding+the+Terminology_+Probate.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
