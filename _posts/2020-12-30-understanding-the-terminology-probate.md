@@ -18,6 +18,6 @@ youtube_code: MIeYUtuSEhk
 
 <p style="text-align: center;"><em>Unpacking all the complicated terms surrounding the probate process.</em></p>
 
-John Anker is an attorney from the Law Office of Saunders & Anker, and among other things, **John specializes in probate, so today I sat down with him to discuss the probate process.** For example, what exactly *is* probate? Simply put, it’s the process of taking a property that belonged to a now-deceased person and distributing it to that person’s heirs or beneficiaries via the court system. To hear our full discussion in which we demystify the probate process and related terms, [click here.](https://t.e2ma.net/click/w5mw1ui/4v8k6ie/o3rk7w9c)
+John Anker is an attorney from the Law Office of Saunders & Anker, and among other things, **John specializes in probate, so today I sat down with him to discuss the probate process.** For example, what exactly *is* probate? Simply put, it’s the process of taking a property that belonged to a now-deceased person and distributing it to that person’s heirs or beneficiaries via the court system. To hear our full discussion in which we demystify the probate process and related terms, [click here.](https://themarkrameygroup.com/probate/)
 
 Hopefully, you’ll take away some valuable information from our discussion. If you have any questions, don’t hesitate to reach out to the Mark Ramey Group. We’d love to hear from you.
