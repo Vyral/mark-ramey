@@ -17,7 +17,7 @@ youtube_code:
 
 {% include youtube.html %}
 
-I’m interviewing attorney Bart Saunders about the probate process.
+<p style="text-align: center;"><em>I’m interviewing attorney Bart Saunders about the probate process.</em></p>
 
 Today I’m interviewing Orlando attorney Bart Saunders, who has been in practice for 17 years. We’ve had a great relationship over the years and have handled many complex real estate matters together. I often find myself working with people who are involved in probate, so Bart will help shine some light on this process and what it entails. Probate is the judicial process where a will is accepted as a valid document, or the estate is settled in the absence of a legal will.
 
