@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The Probate Process
+title: 'Probate Q&A'
 date: 2021-01-22 17:49:16
 tags:
   - Probate
