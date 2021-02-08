@@ -19,7 +19,7 @@ youtube_code: st54YVlSaJM
 
 <p style="text-align: center;"><em>Today we’re answering some common questions about probate.</em></p>
 
-As I’ve progressed in my real estate business, I’ve had the privilege to help a lot of people, many of whom are families that have experienced loss. They went through the probate process in order to sell the deceased person’s properties. Today I’m here with Chris Jones, an attorney from the Giles & Robinson Firm, to discuss what the probate process is and help answer some common questions about it.
+As I’ve progressed in my real estate business, I’ve had the privilege to help a lot of people, many of whom are families that have experienced loss. They went through the probate process in order to sell the deceased person’s properties. Today I’m here with Chris Jones, an attorney from the Giles & Robinson Firm, to discuss the probate process and help answer some common questions about it.
 
 **What is probate?**
 
