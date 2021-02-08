@@ -9,7 +9,7 @@ enclosure:
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: true
+use_youtube_image: false
 youtube_alternate_image: /uploads/LoTH 2.21.jpg
 youtube_code:
 ---
