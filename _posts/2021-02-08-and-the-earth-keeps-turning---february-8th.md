@@ -27,7 +27,7 @@ youtube_code:
     <p style="text-indent: 40px;">Sitting in my home office I see, hear and read about so many really difficult things that are happening pretty much everywhere. But I remember to look out the window every now and then to remind myself that I am not just observing a cycle of life, I am in a cycle of life. The same awareness in a sunflower that turns its head toward the sun is in me. The same instinct that moves a robin from one side of the continent to the other is in me. And my instincts tell me to have faith in the process and know that all cycles come and go. It took looking through a different window to give me a new perspective. I’ve decided I am going to keep looking toward the light.</p>
   </div>
   <div class="col-sm-4">
-     <img src="https://d1qmdf3vop2l07.cloudfront.net/modest-salamander.cloudvent.net/hash-store/7211a79c326df25f64139c54f41e00bb.jpg">
+     <img src="https://d1qmdf3vop2l07.cloudfront.net/modest-salamander.cloudvent.net/hash-store/7211a79c326df25f64139c54f41e00bb.jpg" width="100%">
   </div>
 </div>
 
