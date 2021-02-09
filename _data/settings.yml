@@ -34,7 +34,7 @@ CTAs:
   first_CTA_text: Home Valuation
   first_CTA_URL: https://themarkrameygroup.com/home-valuation/
   second_CTA_text: KW App
-  second_CTA_URL: https://app.kw.com/KW1Q9P16Q/
+  second_CTA_URL: https://themarkrameygroup.com/have-you-seen-the-updated-kw-app/
 
 sidebar_CTA:
   - CTA_image_path: /img/cta-images/004.jpg
@@ -48,7 +48,7 @@ second_sidebar_CTA:
     CTA_title2: "Get FREE instant access to local homes from any mobile device."
     CTA_text2: "Keller Williams Realty Real Estate Search available on Android, iPhone, or iPad gives you access to more than 4 million homes."
     CTA_link_text2: "Download Now"
-    CTA_url2: https://app.kw.com/KW1Q9P16Q/
+    CTA_url2: https://themarkrameygroup.com/have-you-seen-the-updated-kw-app/
 
 lender:
   show_section: false
