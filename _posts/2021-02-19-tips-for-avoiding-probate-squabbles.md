@@ -19,7 +19,7 @@ youtube_code: VpkXuqhuSu0
 
 {% include youtube.html %}
 
-Here are a couple of ways to avoid conflict in the probate process.
+<p style="text-align: center;"><em>Here are a couple of ways to avoid conflict in the probate process.</em></p>
 
 Today I’m joined by Stephanie Cook, an amazing attorney from ShuffieldLowman who is here to provide us some insight on ways to avoid the probate process when someone in our family passes away. Stephanie Cook has worked at ShuffieldLowman since 2007, and she specializes in fiduciary litigation. That means she deals with any litigation related to trusts, probates, guardianships, and more. Unfortunately, **she has seen what can go wrong when an estate plan isn’t put in place.**
 
