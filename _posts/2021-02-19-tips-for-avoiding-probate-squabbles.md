@@ -27,7 +27,7 @@ For example, there’s the case where two parents retire to Florida, leaving the
 
 {% include pullquote.html %}
 
-If there had been a power of attorney and a healthcare surrogate, that conflict could be avoided. Also, establishing a prenate guardian could help avoid these issues. This is essentially where you say, “If I have to have a guardian, I want Xperson to do it.” This arrangement creates a presumption that can eliminate family squabbles.
+If there had been a power of attorney and a healthcare surrogate, that conflict could be avoided. Also, establishing a prenate guardian could help avoid these issues. This is essentially where you say, “If I have to have a guardian, I want X person to do it.” This arrangement creates a presumption that can eliminate family squabbles.
 
 **For the complete list of solutions to these kinds of issues, watch our full video [here.](https://themarkrameygroup.com/probate/){: target="_blank" rel="noopener"}** Ultimately, these solutions can help bring peace to a family and save them significant amounts of money.
 
