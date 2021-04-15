@@ -17,10 +17,10 @@ youtube_code:
 ---
 
 <div class="row" style="margin: 4rem 0;">
-  <div class="col-sm-9">
+  <div class="col-sm-10">
     <p style="text-indent: 40px;">Derek and I have been sitting in our garden chairs at sunset the last few evenings in anticipation of the arrival of the baby hummingbirds. We haven’t seen any yet but we have seen the male hummingbird quite a few times already. The male hummingbird has a red ring around its throat that identifies it as a male. We normally see the male hummingbird first because they arrive before the female to secure an area for their nest. Hummingbirds always return to where they were born so somewhere around our home there are quite a few hummingbird nests.</p>
   </div>
-  <div class="col-sm-3">
+  <div class="col-sm-2">
      <img src="https://vyralmarketing.s3.amazonaws.com/Mark+Ramey/LotH/2021/Mark+Ramey+Hummingbird.jpg" width="100%">
   </div>
 </div>
