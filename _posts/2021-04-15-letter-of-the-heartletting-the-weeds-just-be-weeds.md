@@ -11,8 +11,8 @@ enclosure:
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: true
-youtube_alternate_image:
+use_youtube_image: false
+youtube_alternate_image: https://vyralmarketing.s3.amazonaws.com/Mark+Ramey/LotH/2021/Mark+Ramey+Hummingbird.jpg
 youtube_code:
 ---
 
