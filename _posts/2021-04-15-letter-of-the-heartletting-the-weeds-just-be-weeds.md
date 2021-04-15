@@ -16,7 +16,14 @@ youtube_alternate_image:
 youtube_code:
 ---
 
-<p style="text-indent: 40px;">Derek and I have been sitting in our garden chairs at sunset the last few evenings in anticipation of the arrival of the baby hummingbirds. We haven’t seen any yet but we have seen the male hummingbird quite a few times already. The male hummingbird has a red ring around its throat that identifies it as a male. We normally see the male hummingbird first because they arrive before the female to secure an area for their nest. Hummingbirds always return to where they were born so somewhere around our home there are quite a few hummingbird nests.</p>
+<div class="row" style="margin: 4rem 0;">
+  <div class="col-sm-9">
+    <p style="text-indent: 40px;">Derek and I have been sitting in our garden chairs at sunset the last few evenings in anticipation of the arrival of the baby hummingbirds. We haven’t seen any yet but we have seen the male hummingbird quite a few times already. The male hummingbird has a red ring around its throat that identifies it as a male. We normally see the male hummingbird first because they arrive before the female to secure an area for their nest. Hummingbirds always return to where they were born so somewhere around our home there are quite a few hummingbird nests.</p>
+  </div>
+  <div class="col-sm-3">
+     <img src="https://vyralmarketing.s3.amazonaws.com/Mark+Ramey/LotH/2021/Mark+Ramey+Hummingbird.jpg" width="100%">
+  </div>
+</div>
 
 <p style="text-indent: 40px;">We have never seen one of the nests but we know that they are very small because a hummingbird egg is the same size as a coffee bean. They normally hatch two eggs per spring. I have written about this before because last spring we had so many baby hummingbirds in the garden at one time that we couldn’t count them all. They normally all descend on a grouping of pink porterweed plants that sits next to our garden chairs.</p>
 
@@ -26,6 +33,13 @@ youtube_code:
 
 <p style="text-indent: 40px;">Now porterweeds are called weeds because they grow rapidly, produce many seeds and spread out everywhere. They also attract more hummingbirds and butterflies than almost any other plant that grows in Florida. That is why Derek put them into the garden. That weed, being allowed to do what it naturally does, creates a better center piece of a hummingbird/butterfly garden than any flower could.</p>
 
-<p style="text-indent: 40px;">It seems to me that trying to determine if a plant is a weed or not comes down to more of an opinion than science. That is pretty important because in my head, weeds are bad and flowers are good. I know that is overly simple but I have believed that my whole life, even though my direct experience with the porterweeds has been nothing but good. It just makes me think that I have been putting too much weight on what something is called and not enough weight in the intrinsic value everything and everyone brings to my experience. So, I have decided to take my cue from the hummingbirds. I am going to focus less on opinions, even my own, and spend more time enjoying the garden just as it is.</p>
+<div class="row" style="margin: 4rem 0;">
+  <div class="col-sm-9">
+    <p style="text-indent: 40px;">It seems to me that trying to determine if a plant is a weed or not comes down to more of an opinion than science. That is pretty important because in my head, weeds are bad and flowers are good. I know that is overly simple but I have believed that my whole life, even though my direct experience with the porterweeds has been nothing but good. It just makes me think that I have been putting too much weight on what something is called and not enough weight in the intrinsic value everything and everyone brings to my experience. So, I have decided to take my cue from the hummingbirds. I am going to focus less on opinions, even my own, and spend more time enjoying the garden just as it is.</p>
+  </div>
+  <div class="col-sm-3">
+     <img src="https://vyralmarketing.s3.amazonaws.com/Mark+Ramey/LotH/2021/Mark+Ramey+Weeds.jpg" width="100%">
+  </div>
+</div>
 
 Sincerely—Mark Ramey
