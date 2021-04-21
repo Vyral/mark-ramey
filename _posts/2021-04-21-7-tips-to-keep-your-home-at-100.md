@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 7 Tips to Keep Your Home at 100%
-date: 2021-04-21 17:05:43
+date: 2021-04-21 17:05:00
 tags:
   - Home Buyer Tips
 excerpt: Here are seven home repairs that will keep your home safe and operable.
@@ -34,7 +34,7 @@ To keep your home safe and functional, there are certain repairs you’ll want t
 
 **5\. Pests**. We don’t have to get into the unsavory details, but just know that pests are not only health hazards but can also be very costly to combat if not taken care of immediately.
 
-**6\. Plumbing leaks**. Leaks should be resolved immediately, if they’re not, the water could facilitate mold growth, drywall damage, and wood rot.
+**6\. Plumbing leaks**. Leaks should be resolved immediately. If they’re not, the water could facilitate mold growth, drywall damage, and wood rot.
 
 **7\. Drainage problems.** These sorts of problems can occur because of clogged gutters or downspouts. If your yard grades toward your house, that can cause water to stand around your home’s foundation and cause structural damage over time.
 
