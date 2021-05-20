@@ -31,7 +31,6 @@ youtube_code:
      <img src="https://vyralmarketing.s3.amazonaws.com/Mark+Ramey/LotH/2021/Picture1.jpg" width="100%">
   </div>
 
-![](/uploads/picture1-3.jpg){: width="846" height="560"}
 
 &nbsp;
 
