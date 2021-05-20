@@ -3,6 +3,7 @@ layout: post
 title: Letter of the Heart—Call in the Walker
 date: 2021-05-20 15:32:00
 tags:
+  - Letters of the Heart
 excerpt: >-
   It seems odd to me that time seems to be moving both at the slowest pandemic
   pace that anything could possibly move and as fast as the speed of light at
@@ -15,8 +16,6 @@ use_youtube_image: false
 youtube_alternate_image: /uploads/picture1-1.jpg
 youtube_code:
 ---
-{% include excerpt.html %}
-
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; It seems odd to me that time seems to be moving both at the slowest pandemic pace that anything could possibly move and as fast as the speed of light at the same time.&nbsp; Years ago, Derek and I were enjoying a day at the beach when we noticed two very old men struggling to keep up with a young woman in a bikini that they seemed to be following.&nbsp; We noticed it because they were obviously trying to keep up with her, and she would slow down momentarily to let them catch up.&nbsp; We didn’t think too much about it until we saw them again walking the opposite direction along the beach.&nbsp; Derek thought about it for a moment and said, “I’m pretty sure that woman is an old man walker.”&nbsp; All I could picture in my head was this lady walking up to a house, knocking on the door and saying that she was there to walk the old men.&nbsp; &nbsp;Like that was just a normal thing that happened twice a day but only once on Sundays….
 
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; I mention this because I hadn’t thought about it in years until I recently had my knee replaced.&nbsp; The recovery time for a knee replacement is long. There were a few afternoons in there when Derek was working, that I would have actually enjoyed having a walker come over and get me out of the house for a few hours.&nbsp; It’s funny how you see things through younger eyes and you think that will never be you.&nbsp; Oh, how time flies and life just keeps sending us reminders just in case we aren’t paying attention.
@@ -25,7 +24,7 @@ youtube_code:
 
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; That’s the thing about time slowing down, it gives you the space to notice how fast life is passing by.&nbsp; But that can be a good thing because it also gives you a chance to really notice what you have been doing with your life.&nbsp; There are a lot of indications that we are all going to be living a much more normal life in the near future.&nbsp; Let’s just take a moment to think about what we want to do with it.&nbsp; Figure out what is really important to us, because whether we are paying attention or not, time is moving fast.&nbsp; I’m pretty sure I am going to take this new knee of mine directly to the beach and take myself for a walk, in full appreciation of being able to do just that.
 
-&nbsp;
+![](/uploads/picture1-2.jpg){: width="846" height="560"}
 
 Sincerely,
 
