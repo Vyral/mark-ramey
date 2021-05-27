@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 7 Tips to Keep Your Home at 100%
-date: 2021-04-21 17:05:00
+date: 2021-05-27 12:00:00
 tags:
   - Home Buyer Tips
 excerpt: Here are seven home repairs that will keep your home safe and operable.
