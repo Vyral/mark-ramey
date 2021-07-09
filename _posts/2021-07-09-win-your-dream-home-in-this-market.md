@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Win Your Dream Home in This Market
-date: 2021-07-02 15:44:41
+date: 2021-07-09 11:00:00
 tags:
   - Home Buyer Tips
 excerpt: Here are the main things we’re teaching our buyer’s agents to help you win.
