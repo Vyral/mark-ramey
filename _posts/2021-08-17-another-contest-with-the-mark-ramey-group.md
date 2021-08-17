@@ -18,6 +18,6 @@ youtube_code: 2m0S4GTmfCU
 
 {% include excerpt.html %}
 
-I wanted to say thank you to Gerald Matthews for participating in and winning our last contest. He gave us the opportunity to help two families sell their homes. Thanks again, and congratulations on winning that $200 Visa gift card. **It was so successful that we’re putting our money where our mouth is and running another contest.** If you connect us with someone you know who is selling a property between now and the end of October, we’re going to enter you into another drawing for a $200 Visa gift card.
+I wanted to say thank you to Gerald Matthews for participating in and winning our last contest. He gave us the opportunity to help two families sell their homes. Thanks again, and congratulations on winning that $200 Visa gift card. **It was so successful that we’re putting our money where our mouth is and running another contest.** If you connect us with someone you know who is selling a property between now and the end of October, we’re going to [enter](https://forms.gle/oUsDY7BPZptoeLGz6){: target="_blank" rel="noopener"} you into another drawing for a $200 Visa gift card.
 
 Thank you so much for your continued support, and if there’s anyone we can help with buying or selling, you can contact us at 407-270-0011 or [Mark@TheMarkRameyGroup.com](mailto:Mark@TheMarkRameyGroup.com).
