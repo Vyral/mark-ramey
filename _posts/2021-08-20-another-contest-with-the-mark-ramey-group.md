@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Another Contest With the Mark Ramey Group
-date: 2021-08-17 14:47:05
+date: 2021-08-20 12:40:00
 tags:
   - The Mark Ramey Group
 excerpt: Here’s how to enter our new contest lasting until the end of October.
