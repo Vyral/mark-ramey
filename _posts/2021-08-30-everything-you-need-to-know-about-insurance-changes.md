@@ -5,7 +5,8 @@ date: 2021-08-30 14:45:00
 tags:
   - Real Estate
 excerpt: Important changes to the insurance industry that might affect you.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Mark+Ramey/2021/Everything+You+Need+To+Know+About+Insurance+Changes+(1).mp4
 pullquote: The insurance industry is getting tougher and tighter.
 enclosure_type: video/mp4
 enclosure_time:
