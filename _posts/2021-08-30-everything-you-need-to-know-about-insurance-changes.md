@@ -38,6 +38,6 @@ Today I want to talk to you about some important changes in the Florida homeowne
 
 7\. HVA systems must have been updated within the last 20 years.
 
-Also important to note is that many insurance companies are not allowing customers to make changes within 30 days of binding coverage. \*\*This means that you cannot sign up for insurance and update your house afterward. \*\*
+Also important to note is that many insurance companies are not allowing customers to make changes within 30 days of binding coverage. **This means that you cannot sign up for insurance and update your house afterward.**
 
 The bottom line for you is that the insurance industry is getting tougher and tighter. If you are looking to buy or sell a home, **it is important to make sure you are within your insurance guidelines beforehand.** If you have any questions about today’s topic or anything else, please reach out to me. I am always willing to help.
