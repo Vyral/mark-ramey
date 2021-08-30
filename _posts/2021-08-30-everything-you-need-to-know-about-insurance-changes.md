@@ -36,7 +36,7 @@ Today I want to talk to you about some important changes in the Florida homeowne
 
 6\. Water heaters must be under 14 years old.
 
-7\. HVA systems must have been updated within the last 20 years.
+7\. HVAC systems must have been updated within the last 20 years.
 
 Also important to note is that many insurance companies are not allowing customers to make changes within 30 days of binding coverage. **This means that you cannot sign up for insurance and update your house afterward.**
 
