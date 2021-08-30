@@ -1,18 +1,17 @@
 ---
 layout: post
 title: Everything You Need To Know About Insurance Changes
-date: 2021-08-30 08:26:00
+date: 2021-08-30 14:45:00
 tags:
   - Real Estate
 excerpt: Important changes to the insurance industry that might affect you.
-enclosure: >-
-  https://vyralmarketing.s3.amazonaws.com/Mark+Ramey/2021/Everything+You+Need+to+Know+About+Insurance+Changes.mp4
+enclosure:
 pullquote: The insurance industry is getting tougher and tighter.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: ctOX1-GeumU
+youtube_code: I6aV_B5OwMY
 ---
 {% include youtube.html %}
 
