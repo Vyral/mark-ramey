@@ -18,7 +18,7 @@ youtube_code: ctOX1-GeumU
 
 {% include excerpt.html %}
 
-Today I want to talk to you about some important changes in the Florida homeowners’ insurance market. Recently, we’ve had some issues with our clients' homeowners' insurance when they go to buy or sell a home, so we want to make sure our audience is informed on what’s happening.
+Today I want to talk to you about some important changes in the Florida homeowners insurance market. Recently, we’ve had some issues with our clients' homeowners insurance when they go to buy or sell a home, so we want to make sure our audience is informed on what’s happening.
 
 **To get the full story I reached out to my insurance agent**, and he sent me an email detailing all the important changes.
 
