@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Everything You Need To Know About Insurance Changes
-date: 2021-08-30 14:45:00
+date: 2021-08-31 13:22:00
 tags:
   - Real Estate
 excerpt: Important changes to the insurance industry that might affect you.
