@@ -26,3 +26,7 @@ Derek and I recently got to take the first real vacation that we have been on si
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Derek and I engaged quite a few of the crew in conversations about the last year and a half, and kind of like climbing that tower, it gave us a much broader perspective of how the world is trying to pull itself back together.&nbsp; In each story there was an abundance of gratitude and smiling eyes.&nbsp; I can’t imagine a better way to re-connect with each other.&nbsp;
 
 Sincerely – Mark Ramey
+
+<div class="row" style="margin: 4rem 0;"><div class="col-sm-7"><p style="text-indent: 40px;">Derek and I engaged quite a few of the crew in conversations about the last year and a half, and kind of like climbing that tower, it gave us a much broader perspective of how the world is trying to pull itself back together.  In each story there was an abundance of gratitude and smiling eyes.  I can’t imagine a better way to re-connect with each other.</p></div><div class="col-sm-5"><img width="100%" src="https://vyralmarketing.s3.amazonaws.com/Mark+Ramey/LotH/2021/Mark+Ramey-+Tower.jpg" /></div></div>
+
+Sincerely – Mark Ramey
