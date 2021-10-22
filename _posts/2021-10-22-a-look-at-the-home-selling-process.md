@@ -5,7 +5,8 @@ date: 2021-10-22 13:49:59
 tags:
     - Home Seller Tips
 excerpt: A brief overview of the home-selling process.
-enclosure:
+enclosure: >-
+    https://vyralmarketing.s3.amazonaws.com/Mark+Ramey/2021/A+Look+at+the+Home-Selling+Process.mp4
 pullquote: >-
     We don’t want you to do anything to your home that won’t get you a return on
     your investment.
@@ -29,7 +30,7 @@ Next in the process is the **showing stage**. The goal for a seller is to have a
 
 {% include pullquote.html %}
 
-Once you have a good offer, we have to get through the contract process. The timeline for this stage typically takes between 30 and 45 days to complete. During this portion, we’ll go through the contingencies of the contract.&nbsp;
+Once you have a good offer, we have to get through the contract process. The timeline for this stage typically takes between 30 and 45 days to complete. During this portion, we’ll go through the contingencies of the contract.
 
 The first of these is the inspection contingency. The buyer will have an inspector come out to look at the property to make sure it’s in good condition. We’ll negotiate with the buyer to request as little as possible to get you the most from your sale.
 
