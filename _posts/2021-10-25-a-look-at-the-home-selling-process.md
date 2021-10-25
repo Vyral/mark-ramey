@@ -1,7 +1,7 @@
 ---
 layout: post
 title: A Look at the Home-Selling Process
-date: 2021-10-22 13:49:59
+date: 2021-10-25 10:00:00
 tags:
     - Home Seller Tips
 excerpt: A brief overview of the home-selling process.
@@ -24,7 +24,7 @@ Today let’s talk about the home-selling process and what we can do to ensure t
 
 The first thing we suggest is that you **meet with an agent and schedule a consultation.** The purpose and goal of the consultation are to understand your needs, wants, timeline, and motivations for moving.
 
-Part of this initial meeting will be a condition consultation. The most important thing is that you understand the least you have to do to your home so that you can receive the greatest financial benefit. We don’t want you to do anything to your home that won’t get you a return on your investment. All this is done so that you know the fair market price of your home so that you can get the top price.
+Part of this initial meeting will be a condition consultation. The most important thing is that you understand the least you have to do to your home so that you can receive the greatest financial benefit. We don’t want you to do anything to your home that won’t get you a return on your investment. All this is done so that you know the fair market price of your home and can get the top price.
 
 Next in the process is the **showing stage**. The goal for a seller is to have as many showings as possible. The more showings you have, the more offers you’ll receive. Ideally, you’d receive offers at the showing, which would allow you to negotiate from a position of strength.
 
