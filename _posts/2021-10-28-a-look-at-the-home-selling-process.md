@@ -1,7 +1,7 @@
 ---
 layout: post
 title: A Look at the Home-Selling Process
-date: 2021-10-25 10:00:00
+date: 2021-10-28 08:00:00
 tags:
     - Home Seller Tips
 excerpt: ' You could miss out on selling during this top dollar sellers market.'
