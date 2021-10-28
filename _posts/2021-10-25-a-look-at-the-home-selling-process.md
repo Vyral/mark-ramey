@@ -4,7 +4,7 @@ title: A Look at the Home-Selling Process
 date: 2021-10-25 10:00:00
 tags:
     - Home Seller Tips
-excerpt: A brief overview of the home-selling process.
+excerpt: ' You could miss out on selling during this top dollar sellers market.'
 enclosure: >-
     https://vyralmarketing.s3.amazonaws.com/Mark+Ramey/2021/A+Look+at+the+Home-Selling+Process.mp4
 pullquote: >-
