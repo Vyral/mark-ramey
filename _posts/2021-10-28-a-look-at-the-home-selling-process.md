@@ -1,12 +1,11 @@
 ---
 layout: post
 title: A Look at the Home-Selling Process
-date: 2021-10-28 08:00:00
+date: 2021-10-28 12:00:00
 tags:
     - Home Seller Tips
 excerpt: ' You could miss out on selling during this top dollar sellers market.'
-enclosure: >-
-    https://vyralmarketing.s3.amazonaws.com/Mark+Ramey/2021/A+Look+at+the+Home-Selling+Process.mp4
+enclosure:
 pullquote: >-
     We don’t want you to do anything to your home that won’t get you a return on
     your investment.
@@ -14,7 +13,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: NzEkbTXiU3c
+youtube_code: 8iTiPJmgxls
 ---
 {% include youtube.html %}
 
