@@ -26,7 +26,7 @@ The first thing we suggest is that you **meet with an agent and schedule a consu
 
 Part of this initial meeting will be a condition consultation. The most important thing is that you understand the least you have to do to your home so that you can receive the greatest financial benefit. We don’t want you to do anything to your home that won’t get you a return on your investment. All this is done so that you know the fair market price of your home and can get the top price.
 
-Next in the process is the **showing stage**. The goal for a seller is to have as many showings as possible. The more showings you have, the more offers you’ll receive. Ideally, you’d receive offers at the showing, which would allow you to negotiate from a position of strength.
+Next in the process is the **showing stage**. The goal for a seller is to have as many showings as possible. The more showings you have, the more offers you’ll receive. Ideally, you would receive multiple offers at the same time which would allow you to negotiate from a place of strength.
 
 {% include pullquote.html %}
 
