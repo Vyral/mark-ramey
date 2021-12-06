@@ -28,6 +28,6 @@ Further, we can provide a complimentary consultation about staging and the condi
 
 {% include pullquote.html %}
 
-**Gabe recommends taking advantage of your resources at Harborchase.** For example, I just helped you sell your home, but what do you do with the proceeds? Take advantage of a financial advisor like Gabe who can educate you about your options. They’ll sit down with you, get to know you, understand what’s important to you, and offer solutions that meet those objectives. They’ll check your timeline and comfort with risks and explain all the different solutions to get you to your objectives and be there to guide you through it all.&nbsp;
+**Gabe recommends taking advantage of your resources at Harborchase.** For example, I just helped you sell your home, but what do you do with the proceeds? Take advantage of a financial advisor like Gabe, who can educate you about your options. They’ll sit down with you, get to know you, understand what’s important to you, and offer solutions that meet those objectives. They’ll check your timeline and comfort with risks and explain all the different solutions to get you to your objectives and be there to guide you through it all.&nbsp;
 
 Please reach out to Millie at (407) 984-4530 if you have any questions about Harborchase or would like a free consultation from me or Gabe. Or if you’d like to contact me directly about my services at Harborchase or anything else, please call (407) 270-0011 or email [mark@themarkrameygroup.com](mailto:mark@themarkrameygroup.com). I would love to help you.
