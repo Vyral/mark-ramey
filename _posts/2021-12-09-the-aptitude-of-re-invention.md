@@ -9,8 +9,8 @@ enclosure:
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: true
-youtube_alternate_image:
+use_youtube_image: false
+youtube_alternate_image: /uploads/bigstock-winter-gloves-with-gift-box-h-339924985.jpg
 youtube_code:
 ---
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Happy Holiday\!\!\! I just want to start this letter by saying how grateful I am for all of you, for this wonderful weather and for this beautiful place we all call home.&nbsp; I was recently talking to some new friends of mine that immigrated to this country from Europe.&nbsp; Our discussion was revolving around how much Derek and I have enjoyed hosting students from other countries in our home and how our perception of their home countries has changed from knowing each of them and how their perception of America has also changed based on knowing us.&nbsp;
