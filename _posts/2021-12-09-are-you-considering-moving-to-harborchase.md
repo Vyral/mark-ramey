@@ -4,10 +4,7 @@ title: Are You Considering Moving to HarborChase of Dr. Phillips?
 date: 2021-12-09 10:00:00
 tags:
   - Real Estate
-excerpt: >-
-  HarborChase of Dr. Phillip is an active retirement community that offers
-  Independent living, assisted living, mild dementia care, memory care, respite
-  care and extended congregate care to seniors here in Orlando.
+excerpt: If you’re moving to Harborchase or considering it, we offer free services.
 enclosure: >-
   https://vyralmarketing.s3.amazonaws.com/Mark+Ramey/2021/Are+You+Considering+Moving+to+Harborchase_.mp4
 pullquote: >-
@@ -23,7 +20,7 @@ youtube_code: qEWEgB9xDCI
 
 {% include excerpt.html %}
 
-I recently joined Millie Col&oacute;n, the Director of Sales and Marketing in Harborchase of Dr. Phillips, and Gabe Csizmadia, a financial advisor, in a discussion about how we can help current or prospective residents at HarborChase of Dr. Phillips. **Millie’s goal is to be a resource and guide families through the process of finding the right senior living community.** Millie provides a sense of home and the feeling of support, freedom, and peace to their residents, so she invited Gabe and me to explain what we can do to help you.
+HarborChase of Dr. Phillip is an active retirement community that offers Independent living, assisted living, mild dementia care, memory care, respite care and extended congregate care to seniors here in Orlando. I recently joined Millie Col&oacute;n, the Director of Sales and Marketing in Harborchase of Dr. Phillips, and Gabe Csizmadia, a financial advisor, in a discussion about how we can help current or prospective residents at HarborChase of Dr. Phillips. **Millie’s goal is to be a resource and guide families through the process of finding the right senior living community.** Millie provides a sense of home and the feeling of support, freedom, and peace to their residents, so she invited Gabe and me to explain what we can do to help you.
 
 The Mark Ramey Group is pleased to provide complementary services to the current, incoming, and potential residents of HarborChase of Dr. Phillips. If you’re looking to gain clarity on how you can feel comfortable with the sale of your house or feel supported throughout the moving process, **contact us to get complementary information**, such as a market analysis, that will help you understand what the highest-paying homebuyers will be willing to pay for a home like yours. It’ll also help you see what you might expect to receive after the sale in net proceeds. Additionally, we’ll clearly explain the direction of the real estate market right now, so you can know that you’re making the best possible choices.&nbsp;
 
