@@ -4,7 +4,7 @@ title: The Aptitude of Re-Invention
 date: 2021-12-09 16:56:27
 tags:
   - Letters of the Heart
-excerpt:
+excerpt: "Happy Holiday!!! I just want to start this letter by saying how grateful I am for all of you, for this wonderful weather and for this beautiful place we all call home.\_"
 enclosure:
 pullquote:
 enclosure_type: video/mp4
