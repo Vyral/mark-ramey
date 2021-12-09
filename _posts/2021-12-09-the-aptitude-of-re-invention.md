@@ -31,4 +31,3 @@ Sincerely,
 
 Mark Ramey
 
-![](/uploads/bigstock-winter-gloves-with-gift-box-h-339924986.jpg){: width="800" height="567"}
