@@ -13,6 +13,8 @@ use_youtube_image: false
 youtube_alternate_image: /uploads/bigstock-winter-gloves-with-gift-box-h-339924985.jpg
 youtube_code:
 ---
+![](/uploads/bigstock-winter-gloves-with-gift-box-h-339924986.jpg){: width="800" height="567"}
+
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Happy Holiday\!\!\! I just want to start this letter by saying how grateful I am for all of you, for this wonderful weather and for this beautiful place we all call home.&nbsp; I was recently talking to some new friends of mine that immigrated to this country from Europe.&nbsp; Our discussion was revolving around how much Derek and I have enjoyed hosting students from other countries in our home and how our perception of their home countries has changed from knowing each of them and how their perception of America has also changed based on knowing us.&nbsp;
 
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Our new friends confirmed that there is something distinctly American about the citizens of this country.&nbsp; They feel that they are generally optimistic about the future and they have no fear of completely re-inventing themselves.&nbsp; It was actually a really fascinating discussion because Derek and I can only see it from the perspective of being born here.&nbsp; We know our history but we have always seen it as the new Americans that settled in North America from Europe.&nbsp; If you were in Europe at the time, you would have seen it as the Europeans that decided to start over with a clean slate and that spirit of re-invention lives on.&nbsp;
