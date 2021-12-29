@@ -5,7 +5,8 @@ date: 2021-12-29 18:37:31
 tags:
   - Expert Advice
 excerpt: Should you renovate or move? Here are a few ways to find out.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Mark+Ramey/2021/When+Does+it+Make+Sense+To+Renovate_.mp4
 pullquote: We don’t want you to spend money unless you’re going to get a return.
 enclosure_type: video/mp4
 enclosure_time:
