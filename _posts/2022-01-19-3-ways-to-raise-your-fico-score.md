@@ -4,7 +4,7 @@ title: 3 Ways To Raise Your FICO Score
 date: 2022-01-19 15:28:38
 tags:
   - Expert Advice
-excerpt: Today we’ll share our three tips to help you improve your credit score.
+excerpt: Here are our three tips to help you improve your credit score.
 enclosure: >-
   https://vyralmarketing.s3.amazonaws.com/Mark+Ramey/2022/3+Ways+To+Raise+Your+FICO+Score.mp4
 pullquote:
@@ -22,8 +22,8 @@ Are you thinking about buying a house, but you’re worried about your credit? H
 
 **1\. Don't apply for any new credit cards.** Stick with what you have and pay them off.
 
-**2\. Schedule auto-payments.** This way, you don't even have to think about making payments and you’ll ensure that your bills are paid on time every time.
+**2\. Schedule auto-payments.** This way, you don't even have to think about making payments, and you’ll ensure that your bills are paid on time every time.
 
-**3\. Don't make any big purchases.** Also, make sure to check if there are any mistakes in your statements and correct them right away.
+**3\. Don't make any big purchases.** Also, check if there are any mistakes in your statements and correct them right away.
 
 If you have any questions or are looking for help with buying or selling, please consider us a resource and give us a call. We look forward to hearing from you.
