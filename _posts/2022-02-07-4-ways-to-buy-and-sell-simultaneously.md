@@ -6,7 +6,8 @@ tags:
   - Home Buyer Tips
   - Home Seller Tips
 excerpt: 'These are four ways you can buy and sell a home at the same time. '
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Mark+Ramey/2022/v1_Mark+Ramey+-+How+to+Navigate+Buying+When+You+Also+Want+to+Sell.mp4
 pullquote: 'Post-occupancy agreements are more common in sellers’ markets. '
 enclosure_type: video/mp4
 enclosure_time:
