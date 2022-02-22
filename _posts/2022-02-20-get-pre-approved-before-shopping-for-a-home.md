@@ -4,7 +4,7 @@ title: Get Pre-Approved Before Shopping for a Home
 date: 2022-02-20 12:00:00
 tags:
   - Home Buyer Tips
-excerpt: Discussing three reasons why getting pre-approved is very important.
+excerpt: These are three reasons why getting pre-approved is very important.
 enclosure:
 pullquote:
 enclosure_type: video/mp4
