@@ -21,7 +21,7 @@ Today’s market is extremely competitive. That’s why it’s very important to
 
 **1\. You’ll understand your financial position.** When a lender helps you get pre-approved, you’ll learn about closing costs, monthly payments, and what's affordable for you. This will give you more perspective on your employment, your salary, your credit, and your family and retirement goals.
 
-**2\. You’ll preserve your energy.** Searching for a home can take a lot of energy and time. Don't go out and see houses before you're pre-approved because if you see a great house and rush to the lender only to discover that you can’t afford it, your energy will be sapped.
+**2\. You’ll preserve your energy.** Searching for a home can take a lot of energy and time. Don't go out and see houses before you're pre-approved because if you see a great home and rush to the lender only to discover that you can’t afford it, your energy will be sapped.
 
 **3\. Sellers will take your offer seriously.** Being pre-approved increases your chances of getting your offer accepted. When you're in a multiple-offer scenario, it gives you an opportunity to win that bid.
 
