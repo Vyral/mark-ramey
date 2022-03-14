@@ -3,6 +3,8 @@ layout: post
 title: How To Know If a House Is Priced Correctly
 date: 2022-03-13 12:00:00
 tags:
+  - Home Buyer Tips
+  - Real Estate
 excerpt: Three factors that will help you determine a home’s fair market value.
 enclosure:
 pullquote: >-
