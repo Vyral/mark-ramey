@@ -24,7 +24,7 @@ How can you know if a home is priced fairly for the market? Today I’ll share t
 
 **2\. Days on market.** It’s important to compare the average days on market to how long the home you’re interested in has been on the market. For example, suppose the current average days on market is about 20 days, and the home you’re considering has been on the market for 60 days. That either tells us the home is priced too high or that there’s something wrong with the home’s condition. That would raise an eyebrow for us.
 
-{% include pullqupte.html %}
+{% include pullquote.html %}
 
 **3\. An appraisal.** Your mortgage lender will require an appraisal when you go under contract. The lender will use the appraisal to calculate your loan-to-value comparison. In other words, they’ll determine if the house you’re buying will appraise for the purchase price, and then subtract your down payment from the appraised value. If the appraised value is lower than the purchase price, you may need to use money out of your own pocket to make up the difference or else ask the seller to reduce the price.
 
