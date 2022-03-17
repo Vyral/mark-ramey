@@ -6,7 +6,8 @@ tags:
   - Home Buyer Tips
   - Real Estate
 excerpt: Three factors that will help you determine a home’s fair market value.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Mark+Ramey/2022/How+To+Know+If+a+House+Is+Priced+Correctly.mp4
 pullquote: >-
   The homes that have sold and closed in the last six months will tell us what
   buyers are willing to pay. 
