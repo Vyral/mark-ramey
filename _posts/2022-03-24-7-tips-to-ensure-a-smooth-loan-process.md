@@ -19,22 +19,22 @@ youtube_code: xgBaKCZh9Nk
 
 {% include excerpt.html %}
 
-Today we're going to talk about seven tips to ensure your loan process goes smoothly:
+Here are our seven tips to ensure your loan process goes smoothly:
 
 **1\. Don't quit your job, become self-employed, or change employers.** This can be a red flag to a lender, and it could keep you from actually being able to close on your home.&nbsp;
 
 **2\. Don't make any major purchases like furniture or a car.** These things factor into your debt-to-income ratio and can affect your ability to get a mortgage.
 
-**3\. Confirm the cash you'll need to close.** This will typically consist of your down payment, closing costs, and reserves that the lender requires that you have in your bank account until the day of closing. Don't transfer any of that money until just before closing.
+**3\. Confirm the cash you'll need to close.** This will typically consist of your down payment, closing costs, and reserves that the lender requires that you have in your bank account until the day of closing. Don't transfer any of that money until the closing process.
 
 {% include pullquote.html %}
 
-**4\. Disclose all of your debts and liabilities.** Go through everything with your lender. They'll help you remember things that you might not even remember, like student loans that could be in forbearance or may not be in repayment. You want to report any income like rental income or child support.
+**4\. Disclose all of your debts and liabilities.** Go through everything with your lender. They'll help you remember things that you might have forgotten, like student loans could be in forbearance or may not be in repayment. You want to report any income like rental income or child support.
 
 **5\. Avoid any additional inquiries on your credit.** These can be red flags for an underwriter as they might think that you're going out seeking additional credit and changing your debt-to-income ratio.
 
 **6\. Account for deposits and don't change banks.** Wait until your loan closes.
 
-**7\. Don't cosign on a loan for anyone.** That cosign debt becomes your debt on your credit report, can throw off your debt-to-income ratio, and keep you from being able to close on the home of your dreams.
+**7\. Don't cosign on a loan for anyone.** That cosign debt becomes debt on your credit report, can throw off your debt-to-income ratio, and keep you from being able to close on the home of your dreams.
 
-We hope these tips help you. If you have questions, reach out to us by phone or email. We’re happy to help.
+We hope these tips help you. If you have questions, reach out to us by phone or email. We look forward to hearing from you.
