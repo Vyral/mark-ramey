@@ -12,7 +12,7 @@ pullquote: Don’t throw off your debt-to-income ratio.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
-youtube_alternate_image: /uploads/ss.jpg
+youtube_alternate_image: /uploads/7-loan-tips-yt-mark-ramey-ss.jpg
 youtube_code: xgBaKCZh9Nk
 ---
 {% include youtube.html %}
