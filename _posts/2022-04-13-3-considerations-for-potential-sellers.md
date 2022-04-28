@@ -4,7 +4,8 @@ title: 3 Considerations for Potential Sellers
 date: 2022-04-13 00:00:00
 tags:
 excerpt: Here are three factors to consider when deciding when to sell your home.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Mark+Ramey/2022/3+Considerations+for+Potential+Sellers.mp4
 pullquote: >-
   Ultimately, the ideal time for you to sell your home is when it serves your
   needs.
