@@ -5,7 +5,8 @@ date: 2022-05-04 00:00:00
 tags:
   - Real Estate
 excerpt: Thank you for giving us the opportunity to provide you with great service.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Mark+Ramey/2022/Spin+the+Wheel+Giveaway.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
