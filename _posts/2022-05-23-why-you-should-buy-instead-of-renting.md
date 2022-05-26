@@ -11,7 +11,7 @@ pullquote:
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
-youtube_alternate_image: /uploads/rent-buy-yt-mark-ramey-ss.jpg
+youtube_alternate_image: /uploads/rent-buy-yt-mark-ramey-ss-1.jpg
 youtube_code: FXEh8GZoQ-4
 ---
 {% include youtube.html %}
