@@ -15,7 +15,7 @@ pullquote: >-
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
-youtube_alternate_image: /uploads/june-2022-yt-mark-ramey-ss.jpg
+youtube_alternate_image: /uploads/june-2022-email-mark-ramey-ss.jpg
 youtube_code: 2rmPcQbJ7d0
 ---
 {% include youtube.html %}
