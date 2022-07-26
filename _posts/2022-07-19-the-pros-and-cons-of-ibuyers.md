@@ -11,7 +11,7 @@ pullquote: 'Convenience fees can equal or eclipse commissions. '
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image: /uploads/ibuyer-yt-mark-ramey-ss.jpg
+youtube_alternate_image: /uploads/ss-07-25-yt.jpg
 youtube_code: d0crdt5SEX4
 ---
 {% include youtube.html %}
