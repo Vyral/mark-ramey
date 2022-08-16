@@ -7,7 +7,7 @@ tags:
   - Real Estate
 excerpt: Three great ways to prepare your home for sale, and how it’ll help.
 enclosure:
-pullquote: 3 tips for staging your home.
+pullquote: Staging highlights the floor plan and lets buyers see the space's potential.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
@@ -20,7 +20,7 @@ youtube_code: ivYSu_ey-2Y
 
 When selling their houses, homeowners often ask me if it’s worth it to stage. The purpose of staging is to highlight the property’s floor plan and allow buyers to see the potential of the living space. Properly staging your home can attract more buyers to your listing and even help you net more money—so yes, it is worth it from a financial perspective. Today I’ll share three staging tips to help you put more money in your pocket when you sell.
 
-**1\. Declutter**. This entails clearing off all flat surfaces like tables and countertops. Bookshelves should be minimalized, and closets should be organized. Doing so will open up the space in your home.&nbsp;
+**1\. Declutter**. This entails clearing off all flat surfaces like tables and countertops. Bookshelves should be minimalized, and closets should be organized to open up the space in your home.
 
 {% include pullquote.html %}
 
