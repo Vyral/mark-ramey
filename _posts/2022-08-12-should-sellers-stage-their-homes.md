@@ -11,7 +11,7 @@ pullquote: Staging highlights the floor plan and lets buyers see the space's pot
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
-youtube_alternate_image: /uploads/mark-ramey-ssyt.jpg
+youtube_alternate_image: /uploads/mark-ramey-ss-08-18-yt.jpg
 youtube_code: ivYSu_ey-2Y
 ---
 {% include youtube.html %}
@@ -24,7 +24,7 @@ When selling their houses, homeowners often ask me if it’s worth it to stage. 
 
 {% include pullquote.html %}
 
-**2\. Furniture placement.** Tactfully organizing your furniture maximizes space and creates perceived value. It also shows buyers how your home’s space can be used, enabling them to imagine living there. With the advancement of technology, it’s even possible to stage an empty home by adding furniture and decorations to listing photos.&nbsp;
+**2\. Furniture placement.** Tactfully organizing your furniture maximizes space and creates perceived value. It also shows buyers how your home’s space can be used, enabling them to imagine living there. With the advancement of technology, it’s even possible to stage an empty home by adding furniture and decorations to listing photos.
 
 **3\. Decoration**. When I ask appraisers what sellers can do to get them the biggest bang for their buck, they don’t recommend redoing the kitchen or ripping out the bathroom—the best return on investment comes from painting and having nice floors. Adding a fresh coat of paint throughout the house, putting in fresh carpeting, and installing new light fixtures can boost your home’s value on the market.
 
