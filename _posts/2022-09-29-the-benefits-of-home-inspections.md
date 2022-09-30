@@ -20,7 +20,7 @@ youtube_code: Czu9dToXsYs
 
 Why are inspections important when you’re buying a home? People often get hung up on the extra time or money it might take. However, there are three major benefits to doing a home inspection:&nbsp;
 
-**1\. Gaining peace of mind.** You’ll have a clear understanding of the condition of the home so you’ll know what you’re getting into.&nbsp;
+**1\. Gaining peace of mind.** You’ll have a clear understanding of the home's condition, so you’ll know what you’re getting into.&nbsp;
 
 **2\. Gathering facts for negotiation and insurance.** You can use the facts from the report to negotiate to have repairs done or get a credit from your seller. This will help you make sure you’re happy with the purchase. Also, you can use them to obtain insurance. Many insurance companies will want the report just to issue you a policy.&nbsp;
 
