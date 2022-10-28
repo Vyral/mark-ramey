@@ -13,7 +13,7 @@ use_youtube_image: true
 youtube_alternate_image:
 youtube_code:
 ---
-&nbsp;<p class="indent">It seems like I blinked my eyes and summer is almost over\!&nbsp; I don’t know about you, but Derek and I have been running around like crazy trying to keep up with a world that seems to be moving with a sort of pent-up momentum.&nbsp; We were in the airport about two months ago and the line to get through security went all the way through the center food court to the other side of the airport.&nbsp; What is happening\!?&nbsp; Just in case you were wondering we didn’t make it to the gate in time and we missed our flight.</p>
+&nbsp;It seems like I blinked my eyes and summer is almost over\!&nbsp; I don’t know about you, but Derek and I have been running around like crazy trying to keep up with a world that seems to be moving with a sort of pent-up momentum.&nbsp; We were in the airport about two months ago and the line to get through security went all the way through the center food court to the other side of the airport.&nbsp; What is happening\!?&nbsp; Just in case you were wondering we didn’t make it to the gate in time and we missed our flight.
 
 Derek is sort of funny when it comes to heat.&nbsp; He would rather be somewhere that isn’t constantly hot. That is the tradeoff of living in Central Florida.&nbsp; We stay in air conditioning all summer long just like someone up north would stay in a heated building all winter long.&nbsp; Derek starts a countdown to November in August.&nbsp; He literally opens the back door to the patio every morning and says “four weeks left until November” or whatever the time frame is until November.
 
