@@ -9,15 +9,15 @@ enclosure:
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: true
-youtube_alternate_image:
+use_youtube_image: false
+youtube_alternate_image: /uploads/picture1-4.jpg
 youtube_code:
 ---
 &nbsp; &nbsp; &nbsp;It seems like I blinked my eyes and summer is almost over\!&nbsp; I don’t know about you, but Derek and I have been running around like crazy trying to keep up with a world that seems to be moving with a sort of pent-up momentum.&nbsp; We were in the airport about two months ago and the line to get through security went all the way through the center food court to the other side of the airport.&nbsp; What is happening\!?&nbsp; Just in case you were wondering we didn’t make it to the gate in time and we missed our flight.
 
 &nbsp; &nbsp; &nbsp;Derek is sort of funny when it comes to heat.&nbsp; He would rather be somewhere that isn’t constantly hot. That is the tradeoff of living in Central Florida.&nbsp; We stay in air conditioning all summer long just like someone up north would stay in a heated building all winter long.&nbsp; Derek starts a countdown to November in August.&nbsp; He literally opens the back door to the patio every morning and says “four weeks left until November” or whatever the time frame is until November.
 
-&nbsp;![](/uploads/picture1-6.jpg){: width="230" height="172"} &nbsp; &nbsp; We were driving recently to TooJays for dinner and I asked him why November was so important to him.&nbsp; He told me that he loves when it cools down in November and that one of his favorite days of the year is the first day that you open the patio door and are greeted by a non-humid cool breeze.&nbsp; He explained that even the hottest September morning is better when you project forward to the most perfect November morning and it reminds you why we all live in Central Florida.
+&nbsp; &nbsp; &nbsp; We were driving recently to TooJays for dinner and I asked him why November was so important to him.&nbsp; He told me that he loves when it cools down in November and that one of his favorite days of the year is the first day that you open the patio door and are greeted by a non-humid cool breeze.&nbsp; He explained that even the hottest September morning is better when you project forward to the most perfect November morning and it reminds you why we all live in Central Florida.
 
 &nbsp; &nbsp; &nbsp;While we were having this discussion, I pulled into the left-turning lane from Sand Lake Road to the Dr. Phillips Market Center. The car in front of me had the green light but wouldn’t turn even though there was ample space to get through the opposing oncoming traffic.&nbsp; I honked as politely as one can honk but they refused to turn left without the green arrow.&nbsp; I found this super frustrating because I couldn’t get around them and they wouldn’t budge.
 
