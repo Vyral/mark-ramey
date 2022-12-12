@@ -14,7 +14,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/rental-email.jpg
-youtube_code: g9Gcz_tCRVU
+youtube_code: '-zvCH8Iyjeg'
 ---
 {% include youtube.html %}
 
