@@ -4,7 +4,9 @@ title: Holidays Gone By
 date: 2022-12-16 00:00:00
 tags:
   - Letters of the Heart
-excerpt:
+excerpt: >-
+  I would like to extend my sincere wish that you all have a truly wonderful
+  Holiday.
 enclosure:
 pullquote:
 enclosure_type: video/mp4
