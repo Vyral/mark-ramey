@@ -8,13 +8,7 @@ tags:
   - Realtor
   - Home Sale
   - Profit
-excerpt: >-
-  Have you ever calculated the net proceeds you would get from selling your
-  home? Whether you want to sell or you’re not sure, it’s helpful to know how
-  much money you might gain from your sale. Unfortunately, many people end up
-  disappointed because they calculate this number incorrectly. There’s a formula
-  to help you get your estimate, and I’m here to show you how to use it the
-  right way. To find out more, watch my latest video. 
+excerpt: How to calculate the amount of money you’ll keep after your home sale.
 enclosure:
 pullquote: 'A good agent will help you know what to expect with your net proceeds. '
 enclosure_type: video/mp4
@@ -35,7 +29,7 @@ After that, figuring out how much of the money from your home sale that you’ll
 
 Here is an important calculation to use: take your home’s estimated sale price, then subtract the balance of your remaining mortgage loan, then subtract expenses—that’s how much money you’ll get to keep when selling your home.
 
-{% include pullquote.html %}
+**{% include pullquote.html %}**
 
 Some common expenses that come with a home sale include staging costs, closing costs, title fees, attorney fees, transfer taxes, remaining bills, and moving costs. It adds up\! That’s why it is very important to take them into account when calculating the amount of money you expect to keep after your sale.&nbsp;
 
