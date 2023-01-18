@@ -16,7 +16,7 @@ enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: >-
   /uploads/bills-studio-market-update-sign-mark-ramey-tb340n8wf-cfr-synced-2023-jan-11-1641pm-utc-riverside-mp4-00-00-00-00-still001.jpg
-youtube_code: Qh0CS6mAy7A
+youtube_code: Yaayv30dfFk
 ---
 {% include youtube.html %}
 
