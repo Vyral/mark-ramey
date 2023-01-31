@@ -34,4 +34,4 @@ As we're moving into a very active market, how can buyers ensure that their offe
 
 **4\. Form a relationship with the seller.** Even though the seller has found their next home and is moving on, they still have formed years of memories in this house. If they can interact with you and know that the home would go to someone meaningful and who will value it, that will help you stand out a lot. This emotional connection will help you win.&nbsp;
 
-I realize this is a lot of information and you might have a lot of questions. As they come up, call or email me anytime, and know that I would love to help you.&nbsp;
+I realize this is a lot of information, and you might have a lot of questions. As they come up, call or email me anytime, and know that I would love to help you.&nbsp;
