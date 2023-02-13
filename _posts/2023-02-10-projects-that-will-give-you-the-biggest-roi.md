@@ -16,8 +16,9 @@ pullquote: >-
   more.
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: true
-youtube_alternate_image:
+use_youtube_image: false
+youtube_alternate_image: >-
+  /uploads/bills-studio-3-upgrades-for-value-mark-ramey-5cupstxrd-cfr-synced-2023-feb-08-1651pm-utc-riverside-mp4-00-06-31-05-still001.jpg
 youtube_code: TD4BqErrN3U
 ---
 {% include youtube.html %}
