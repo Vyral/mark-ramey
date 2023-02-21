@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How To Sell a Fixer-Upper in Florida
-date:
+date: 2023-02-21 00:00:00
 tags:
 excerpt: You have two choices if your home doesn’t meet Florida’s insurance rules.
 enclosure:
