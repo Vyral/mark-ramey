@@ -1,11 +1,15 @@
 ---
 layout: post
-title: The Latest Trends in the Orlando Real Estate Market
+title: 'Begin Transmission: Orlando Science Officer’s Findings on Real Estate'
 date: 2023-04-05 00:00:00
 tags:
-excerpt: The Orlando real estate market is a win-win for buyers and sellers.
+excerpt: >-
+  This ancient and lucrative custom currently demonstrates a period of high
+  volatility.
 enclosure:
-pullquote: More and more people are interested in owning property in this region.
+pullquote: >-
+  We have undertaken a study of the trade that Floridians refer to as “Real
+  Estate.”
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
@@ -16,16 +20,18 @@ youtube_code: 8rPm85FHEyo
 
 {% include excerpt.html %}
 
-The Orlando real estate market has been an area of interest for many investors and homebuyers alike. With its growing economy and vibrant community, it is not surprising that more and more people are interested in owning property in this region. Let’s go over some of the highlights and trends of the Orlando real estate market to give you an idea of what to expect.
+We have found ourselves in the Alpha Quadrant, on the planet known locally as “Earth.” Our exact location is in the southeastern part of the North American continent. The nearest city is Orlando, in the state of Florida. While stardate measurements are imprecise during this century, we believe we are in the local year 2023, during a season that is colloquially known as “spring.” In an effort to better understand regional customs, we have undertaken a study of the trade that Floridians refer to as “Real Estate.” These are our findings.
 
-According to the most recent data, **the current inventory in the Orlando real estate market is about 7900 units.** This number may seem low, but it is important to consider the sales volume as well. In the last month, there were 2887 units sold, indicating that the market is still active despite the low inventory.
+Current inventory levels of the substance known as “housing” are indicated to be approximately 7,900 units. While this may not appear substantial, it is worth considering that **2,887 of these units were sold in the prior local month, implying that this market is highly active.**
 
-However, it is worth noting that the sales in 2022 have actually come down 16% compared to the previous year, while the inventory has gone up 67%. This trend is something to keep an eye on, as it could indicate a shift in the market.
+Despite this, experts in the trade have informed me that in the current local solar year, sales have declined by 16%. During this same period, the inventory of “housing” has increased by 67%. **This, I am assured, could indicate a shift in the local market.**
 
 {% include pullquote.html %}
 
-Despite the decrease in sales and increase in inventory, there is still some **good news for both buyers and sellers.** Prices have risen by 5% to 6%, which is a positive trend for sellers. Meanwhile, buyers benefit from the fact that there is an underperforming supply of inventory, meaning they have more options to choose from.
+For traders of this asset, there is positive data. Sellers will note that the price of these “homes” has increased by 5% to 6%. Those on the inverse of this equation, referred to as “buyers,” will be pleased to learn that the underperforming inventory may mean a greater selection from which to choose.
 
-Overall, the Orlando real estate market is still a competitive one, and it is important to act quickly if you are interested in buying or selling property in the region.
+The “real estate” trade of Orlando, Florida, Planet Earth, is a vibrant and dynamic environment. It has been increasingly competitive during recent solar cycles, indicating that those wishing to take advantage of current market trends should act quickly. Local experts in the trade known as real estate have extensive knowledge of market data and are highly skilled in the transfer of “housing” between individuals. If one wishes to partake in this delightful local custom, it is highly recommended that one seek out these “Realtors” for further information.
 
-If you have any questions about the Orlando real estate market or your specific area, don't hesitate to reach out to us by phone or email. We are always happy to help you with these important decisions.
+Science Officer’s Log: Supplemental
+
+Starfleet has designated me as the prime point of contact for this venerable and multifarious tradition. For any who wish to engage in the purchase, sale, or investment in “real estate,” please contact me on my personal communicator by calling (407) 270-0011 or emailing [mark@themarkrameygroup.com](mailto:mark@themarkrameygroup.com).
