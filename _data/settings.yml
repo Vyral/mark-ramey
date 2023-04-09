@@ -21,8 +21,8 @@ client:
     Born and raised in Chicago Illinois, I left the windy city and a career in auto sales and finance in 1998 when I moved to Orlando Florida.  It only took one glorious winter to realize that this was my new home.  I quickly started my new career as a Real Estate agent so that I could help others in their quest to live here in Winter Paradise.
   market: Dr. Phillips-Windermere
   brand: The Mark Ramey Group
-  brokerage: Keller Williams Classic Realty
-  address: 6900 Turkey Lake Rd. Orlando, FL 32819
+  brokerage:
+  address:
   phone: 407-270-0011
   phone_type:
   phone2:
@@ -33,8 +33,6 @@ client:
 CTAs:
   first_CTA_text: Home Valuation
   first_CTA_URL: https://themarkrameygroup.com/home-valuation/
-  second_CTA_text: KW App
-  second_CTA_URL: https://themarkrameygroup.com/have-you-seen-the-updated-kw-app/
 
 sidebar_CTA:
   - CTA_image_path: /img/cta-images/004.jpg
@@ -42,13 +40,6 @@ sidebar_CTA:
     CTA_text: "Are you thinking of selling your home or interested in learning about home prices in your neighborhood? We can help you. Call or email me today at 407-270-0011 mark@themarkrameygroup.com"
     CTA_link_text: "Free Home Value Report"
     CTA_url: https://themarkrameygroup.com/home-valuation/
-
-second_sidebar_CTA:
-  - CTA_image_path2: /img/cta-images/005.jpg
-    CTA_title2: "Get FREE instant access to local homes from any mobile device."
-    CTA_text2: "Keller Williams Realty Real Estate Search available on Android, iPhone, or iPad gives you access to more than 4 million homes."
-    CTA_link_text2: "Download Now"
-    CTA_url2: https://themarkrameygroup.com/have-you-seen-the-updated-kw-app/
 
 lender:
   show_section: false
